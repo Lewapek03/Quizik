@@ -1,0 +1,13 @@
+[
+  {
+    "numer": 2,
+    "pytanie": "Cholangiopankreatografia wsteczna to:",
+    "odpowiedzi": {
+      "1": "Badanie endoskopowe uwidaczniające drogi żółciowe i trzustkowe",
+      "2": "Badanie radiologiczne uwidaczniające strukturę trzustki i wątroby",
+      "3": "Zabieg operacyjny polegający na częściowej resekcji trzustki",
+      "4": "Badanie endoskopowe polegające na podaniu środka kontrastowego do jelita krętego i uwidocznieniu dróg żółciowych"
+    },
+    "poprawna": 1
+  }
+]
