@@ -1,5 +1,16 @@
 [
   {
+    "numer": 1,
+    "pytanie": "Do charakterystycznych objawów niedrożności mechanicznej jelit zaliczane są:",
+    "odpowiedzi": {
+      "1": "Bóle brzucha o charakterze kolki, wymioty, zatrzymanie stolca i gazów",
+      "2": "Biegunka, puste odbijania, bóle podbrzusza",
+      "3": "Kruczenia i przelewania, biegunka z oddawaniem żywoczerwonej krwi",
+      "4": "Silne dolegliwości bólowe promieniujące do prawej łopatki i barku"
+    },
+    "poprawna": 1
+  },
+  {
     "numer": 2,
     "pytanie": "Cholangiopankreatografia wsteczna to:",
     "odpowiedzi": {
@@ -9,5 +20,3364 @@
       "4": "Badanie endoskopowe polegające na podaniu środka kontrastowego do jelita krętego i uwidocznieniu dróg żółciowych"
     },
     "poprawna": 1
+  },
+  {
+    "numer": 3,
+    "pytanie": "W zakres działań edukacyjnych wobec chorego w okresie pooperacyjnym wchodzi:",
+    "odpowiedzi": {
+      "1": "Toaleta rany pooperacyjnej, rehabilitacja ruchowa, edukacja w zakresie leczenia farmakologicznego",
+      "2": "Postępowanie dietetyczne, ćwiczenia wzmacniające mięśnie brzucha",
+      "3": "Zakres wiedzy dotyczącej dozowania wysiłku fizycznego, nauka samopielęgnacji",
+      "4": "Wszystkie odpowiedzi są prawidłowe"
+    },
+    "poprawna": 4
+  },
+  {
+    "numer": 4,
+    "pytanie": "Po niepowikłanym zabiegu usunięcia wyrostka robaczkowego metodą otwartą najczęściej:",
+    "odpowiedzi": {
+      "1": "Rana znajduje się w prawym dolnym kwadrancie jamy brzusznej",
+      "2": "Rana znajduje się w lewym dolnym kwadrancie jamy brzusznej",
+      "3": "Rana znajduje się w prawym górnym kwadrancie jamy brzusznej",
+      "4": "Rana znajduje się w lewym górnym kwadrancie jamy brzusznej"
+    },
+    "poprawna": 1
+  },
+  {
+    "numer": 5,
+    "pytanie": "Przygotowanie psychiczne do zabiegu operacyjnego:",
+    "odpowiedzi": {
+      "1": "Nie jest konieczne w przypadku tzw. „małych” zabiegów chirurgicznych i zabiegów wykonywanych w znieczuleniu miejscowym",
+      "2": "Podejmuje się tylko na wyraźną prośbę chorego",
+      "3": "Jest integralnym elementem pielęgniarskiej opieki okołooperacyjnej",
+      "4": "Ma na celu zapobieganie powikłaniom zakrzepowo-zatorowym w okresie pooperacyjnym"
+    },
+    "poprawna": 3
+  },
+  {
+    "numer": 6,
+    "pytanie": "Po wykonaniu wstecznej cholangiografii chorego należy obserwować w kierunku takich powikłań jak:",
+    "odpowiedzi": {
+      "1": "Tężyczka lub uszkodzenie nerwów krtaniowych",
+      "2": "Ostre zapalenie trzustki",
+      "3": "Ropienie rany pooperacyjnej, wstrząs septyczny",
+      "4": "Wszystkie wymienione"
+    },
+    "poprawna": 2
+  },
+  {
+    "numer": 7,
+    "pytanie": "Monitorowanie parametrów życiowych w okresie pooperacyjnym:",
+    "odpowiedzi": {
+      "1": "Wymagane jest tylko w stanach bezpośredniego zagrożenia życia i ciężkich powikłań pooperacyjnych",
+      "2": "Obejmuje ocenę stanu świadomości, tętna, oddechu, pomiar ciśnienia tętniczego, ilość wydalanego moczu i ocenę zabarwienia powłok skórnych",
+      "3": "Nie jest konieczne u osób młodych w wieku < 25 lat",
+      "4": "Żadna z odpowiedzi nie jest poprawna"
+    },
+    "poprawna": 2
+  },
+  {
+    "numer": 8,
+    "pytanie": "Po zabiegu operacyjnym u osób starszych, usprawnianie ruchowe należy podejmować:",
+    "odpowiedzi": {
+      "1": "Przynajmniej 1 dobę później niż u pozostałych chorych 1",
+      "2": "Nie później niż w czwartej dobie po zabiegu",
+      "3": "Możliwie jak najszybciej",
+      "4": "Możliwie jak najpóźniej"
+    },
+    "poprawna": 3
+  },
+  {
+    "numer": 9,
+    "pytanie": "Profilaktyka przeciwzakrzepowa w okresie okołooperacyjnym nie obejmuje:",
+    "odpowiedzi": {
+      "1": "Stosowania bandażowania kończyn dolnych u chorych z grupy zwiększonego ryzyka",
+      "2": "Wczesnej aktywizacji chorych",
+      "3": "Stosowania antybiotykoterapii przedoperacyjnej",
+      "4": "Podawania leków przeciwzakrzepowych na zlecenie lekarza"
+    },
+    "poprawna": 3
+  },
+  {
+    "numer": 10,
+    "pytanie": "Zadaniem pielęgniarki w opiece nad chorym żywionym pozajelitowo jest:",
+    "odpowiedzi": {
+      "1": "Codzienna inspekcja linii żylnej",
+      "2": "Pielęgnacja jamy ustnej",
+      "3": "Pomiar temperatury i masy ciała",
+      "4": "Wszystkie powyższe"
+    },
+    "poprawna": 4
+  },
+  {
+    "numer": 11,
+    "pytanie": "Pacjent w I dobie po zabiegu częściowej resekcji żołądka zgłasza uciążliwe uczucie pragnienia. Opiekując się chorym zareagujesz w następujący sposób:",
+    "odpowiedzi": {
+      "1": "Poinformujesz chorego, że nie może przyjmować płynów drogą doustną, a następnie podasz choremu 50 ml wody mineralnej przez założony zgłębnik",
+      "2": "Podłączysz płyny infuzyjne i podasz choremu wodę mineralną do zwilżania błon śluzowych jamy ustnej",
+      "3": "Skontrolujesz temperaturę ciała chorego, a następnie podasz ciepłą herbatę do picia",
+      "4": "Żadne z powyższych"
+    },
+    "poprawna": 2
+  },
+  {
+    "numer": 12,
+    "pytanie": "Do panendoskopii układamy chorego w pozycji:",
+    "odpowiedzi": {
+      "1": "Na lewym boku z lekko przygiętą głową",
+      "2": "Na wznak",
+      "3": "W pozycji kolankowo-łokciowej",
+      "4": "Na prawym boku z lekko odgiętą głową"
+    },
+    "poprawna": 1
+  },
+  {
+    "numer": 13,
+    "pytanie": "Przeciwwskazaniem do gastroskopii nie jest:",
+    "odpowiedzi": {
+      "1": "Podejrzenie perforacji żołądka",
+      "2": "Brak współpracy ze strony chorego",
+      "3": "Bóle w nadbrzuszu",
+      "4": "Niestabilna choroba wieńcowa"
+    },
+    "poprawna": 3
+  },
+  {
+    "numer": 14,
+    "pytanie": "Objawem klinicznym zapalenia wyrostka robaczkowego nie jest:",
+    "odpowiedzi": {
+      "1": "Ból brzucha",
+      "2": "Podwyższona ciepłota ciała",
+      "3": "Nudności i wymioty",
+      "4": "Bradykardia"
+    },
+    "poprawna": 4
+  },
+  {
+    "numer": 15,
+    "pytanie": "Głównym badaniem diagnostycznym wykrywającym kamicę pęcherzyka żółciowego jest obecnie:",
+    "odpowiedzi": {
+      "1": "Określenie poziomu bilirubiny",
+      "2": "Ultrasonografia jamy brzusznej",
+      "3": "Arteriografia jamy brzusznej",
+      "4": "Endoskopowa cholangiopankreatografia wsteczna"
+    },
+    "poprawna": 4
+  },
+  {
+    "numer": 16,
+    "pytanie": "Chory po wykonanej gastroskopii powinien uzyskać informację, że:",
+    "odpowiedzi": {
+      "1": "Takie objawy jak chrypka, ból gardła, wiążą się z przeprowadzonym badaniem i są przemijające 2",
+      "2": "Może zaobserwować przez 1-2 dni ślady krwi na bieliźnie, szczególnie wówczas gdy były pobierane wycinki",
+      "3": "Po powrocie do domu powinien co najmniej przez 2-3 godziny leżeć na lewym boku z podkurczonymi kończynami dolnymi",
+      "4": "Każda kolejna wykonywana u niego gastroskopia będzie bardziej bolesna"
+    },
+    "poprawna": 1
+  },
+  {
+    "numer": 17,
+    "pytanie": "Wskaż prawidłowo sformułowaną diagnozę pielęgniarską w odniesieniu do chorego w okresie przedoperacyjnym:",
+    "odpowiedzi": {
+      "1": "Występujący u chorego niepokój należy zniwelować poprzez zapewnienie choremu odpowiednich warunków do wypoczynku",
+      "2": "U chorego występuje znaczny niepokój związany z oczekiwaniem na zabieg operacyjny",
+      "3": "Chory oczekuje na zabieg operacyjny amputacji kończyny dolnej lewej na poziomie uda",
+      "4": "Najlepszą formą niwelowania niepokoju u chorych przed operacją jest stosowanie leków uspokajających"
+    },
+    "poprawna": 2
+  },
+  {
+    "numer": 18,
+    "pytanie": "W wyniku pielęgniarskiej edukacji pooperacyjnej chory z kolostomią nabywa umiejętności:",
+    "odpowiedzi": {
+      "1": "Samodzielnego pielęgnowania skóry wokół stomii",
+      "2": "Wykonywania ćwiczeń wzmacniających mięśnie brzucha",
+      "3": "Samoobserwacji i zapobiegania występowaniu niektórych powikłań pooperacyjnych",
+      "4": "Wszystkie odpowiedzi prawidłowe"
+    },
+    "poprawna": 4
+  },
+  {
+    "numer": 19,
+    "pytanie": "Przeprowadzając wywiad z chorym z krwawieniem z górnego odcinka przewodu pokarmowego szczególną uwagę zwrócisz na:",
+    "odpowiedzi": {
+      "1": "Warunki mieszkaniowe chorego",
+      "2": "Ocenę ryzyka niedożywienia",
+      "3": "Przyjmowane dawki insuliny",
+      "4": "Przyjmowane przez chorego leki przeciwzapalne, przeciwkrzepliwe i przeciwbólowe"
+    },
+    "poprawna": 4
+  },
+  {
+    "numer": 20,
+    "pytanie": "Do objawów raka jelita grubego nie należą:",
+    "odpowiedzi": {
+      "1": "Wzdęcia brzucha, obecność krwi i śluzu w stolcu, zmiany rytmu wypróżnień",
+      "2": "Stolce „ołówkowate”, utrata masy ciała, bóle brzucha, krwawienia jawne",
+      "3": "Guz brzucha wyczuwalny w badaniu palpacyjnym, utrata masy ciała , krwawienia utajone",
+      "4": "Dodatni objaw Blumberga , zaburzenia połykania, nudności i fusowate wymioty"
+    },
+    "poprawna": [
+      4,
+      3
+    ]
+  },
+  {
+    "numer": 21,
+    "pytanie": "Wywiad przeprowadzony z chorym przyjętym w trybie planowym do zabiegu operacyjnego powinien obejmować:",
+    "odpowiedzi": {
+      "1": "Pytania dotyczące dotychczasowego przebiegu choroby, objawów towarzyszących i przyjmowanych leków",
+      "2": "Pomiar podstawowych parametrów życiowych",
+      "3": "Ocenę stanu skóry pod kątem występowania otarć, zadrapań, jej zabarwienia i ucieplenia",
+      "4": "Wszystkie powyższe"
+    },
+    "poprawna": 4
+  },
+  {
+    "numer": 22,
+    "pytanie": "Do czynników ryzyka kamicy pęcherzyka żółciowego zaliczane są:",
+    "odpowiedzi": {
+      "1": "Płeć żeńska, otyłość, nadciśnienie tętnicze",
+      "2": "Płeć męska, wiek, częste błędy dietetyczne",
+      "3": "Płeć żeńska, otyłość, czynniki dziedziczne",
+      "4": "Płeć żeńska, żółtaczka, otyłość, cukrzyca 3"
+    },
+    "poprawna": 4
+  },
+  {
+    "numer": 23,
+    "pytanie": "Zalecenia dietetyczne jakich udzielisz choremu po zabiegu usunięcia pęcherzyka żółciowego obejmują:",
+    "odpowiedzi": {
+      "1": "Spożywanie nie więcej niż trzech obfitych posiłków dziennie i wypijanie co najmniej 2 – 3 litrów płynów na dobę",
+      "2": "Spożywanie we wczesnym okresie pooperacyjnym (do 3-4 tygodni) posiłków płynnych i papkowatych, wysokokalorycznych, a później wprowadzanie do diety pokarmów stałych, normokalorycznych",
+      "3": "Unikanie potraw pieczonych, smażonych, z dużą zawartością tłuszczów, świeżych owoców i innych potraw wymagających do trawienia żółci",
+      "4": "Wszystkie powyższe odpowiedzi są prawidłowe"
+    },
+    "poprawna": [
+      3,
+      1
+    ]
+  },
+  {
+    "numer": 24,
+    "pytanie": "Celem rehabilitacji pooperacyjnej jest:",
+    "odpowiedzi": {
+      "1": "Zapobieganie powikłaniom płucnym",
+      "2": "Zapobieganie zakrzepicy i zatorowości płucnej",
+      "3": "Przywracanie sprawności umożliwiającej choremu możliwie największą samodzielność",
+      "4": "Wszystkie wymienione"
+    },
+    "poprawna": 4
+  },
+  {
+    "numer": 25,
+    "pytanie": "Objawem zakażenia rany pooperacyjnej jest:",
+    "odpowiedzi": {
+      "1": "Zaczerwienienie brzegów rany, ból i rozejście się brzegów rany",
+      "2": "Uogólniony obrzęk, dreszcze, nudności, bóle stawowo-mięśniowe",
+      "3": "Zaburzenia czucia, zblednięcie i ochłodzenie brzegów rany",
+      "4": "Wszystkie odpowiedzi są prawidłowe"
+    },
+    "poprawna": 1
+  },
+  {
+    "numer": 26,
+    "pytanie": "U chorego po zabiegu operacyjnym objawem krwawienia i znacznej utraty krwi może być:",
+    "odpowiedzi": {
+      "1": "Gorączka, wymioty, bóle brzucha",
+      "2": "Niepokój, tachykardia, spadek ciśnienia tętniczego",
+      "3": "Ropna wydzielina z rany",
+      "4": "Wszystkie odpowiedzi prawidłowe"
+    },
+    "poprawna": [
+      2,
+      1
+    ]
+  },
+  {
+    "numer": 27,
+    "pytanie": "Zalecenia dietetyczne dla chorego po przebytym ostrym zapaleniu trzustki (OZT) obejmują:",
+    "odpowiedzi": {
+      "1": "Bezwzględny zakaz spożywania alkoholu, ograniczenie spożycia tłuszczów, potraw smażonych oraz świeżych warzyw i owoców",
+      "2": "Ograniczenie spożycia pokarmów bogatych w błonnik pokarmowy",
+      "3": "Spożywanie dużych ilości świeżych warzyw i owoców, ograniczenie spożycia alkoholu do czerwonego wina i okazjonalnie jasnego piwa",
+      "4": "Nie ma specjalnych zaleceń dietetycznych dla chorych po OZT"
+    },
+    "poprawna": 1
+  },
+  {
+    "numer": 28,
+    "pytanie": "Podawanie, których z wymienionych grup leków nie powinno być kontynuowane w okresie okołooperacyjnym:",
+    "odpowiedzi": {
+      "1": "Przeciwparkinsoidalnych",
+      "2": "Korykosteroidów",
+      "3": "Przeciwkrzepliwych",
+      "4": "Przeciwastmatycznych"
+    },
+    "poprawna": 3
+  },
+  {
+    "numer": 29,
+    "pytanie": "Do badań dolnego odcinka przewodu pokarmowego zalicza się:",
+    "odpowiedzi": {
+      "1": "Anoskopię",
+      "2": "Kolposkopię",
+      "3": "Gastroskopię",
+      "4": "Żadne z powyższych"
+    },
+    "poprawna": 1
+  },
+  {
+    "numer": 30,
+    "pytanie": "Skóra wokół stomii: 4",
+    "odpowiedzi": {
+      "1": "Wymaga szczególnej pielęgnacji z użyciem środków antyseptycznych na bazie spirytusu",
+      "2": "Powinna zawsze być dokładnie pokryta pastą stomijną",
+      "3": "Może być po operacji zabezpieczona opatrunkiem gazowym, który w pierwszej dobie zastępuje się woreczkiem",
+      "4": "Jest narażona na występowanie podrażnień na skutek działania treści jelitowej"
+    },
+    "poprawna": 4
+  },
+  {
+    "numer": 31,
+    "pytanie": "Zgłębnik Sengstakena-Blakemore’a służy do:",
+    "odpowiedzi": {
+      "1": "Odsysania treści żołądkowej w zwężeniu odźwiernika",
+      "2": "Doraźnego tamowania krwotoku z żylaków przełyku",
+      "3": "Żywienia dojelitowego",
+      "4": "Usuwania ciał obcych z przewodu pokarmowego"
+    },
+    "poprawna": 2
+  },
+  {
+    "numer": 32,
+    "pytanie": "W pielęgnowaniu chorego z założonym drenem Kehra szczególną uwagę zwrócisz na:",
+    "odpowiedzi": {
+      "1": "Dobową ilość żółci",
+      "2": "Zabezpieczenie drenu przed wysunięciem/usunięciem",
+      "3": "Przygotowanie chorego do cholangiografii",
+      "4": "Wszystkie powyższe"
+    },
+    "poprawna": 1
+  },
+  {
+    "numer": 33,
+    "pytanie": "Prawdą jest, że u chorych po zabiegu amputacji kończyny dolnej:",
+    "odpowiedzi": {
+      "1": "Protezowanie kikuta można rozpocząć po zagojeniu się rany operacyjnej i prawidłowym przygotowaniu kikuta",
+      "2": "Układanie chorego na brzuchu zapobiega przykurczom",
+      "3": "Występuje zwiększone ryzyko rozwoju odleżyn",
+      "4": "Wszystkie odpowiedzi są poprawne"
+    },
+    "poprawna": 1
+  },
+  {
+    "numer": 34,
+    "pytanie": "Zastosowanie skali oceny ryzyka rozwoju odleżyn pozwala na:",
+    "odpowiedzi": {
+      "1": "Określenie grupy chorych ze szczególnym ryzykiem powstawania odleżyn",
+      "2": "Określenie czasu unieruchomienia chorych po urazach",
+      "3": "Określenie stopnia napięcia mięśni u chorych nieprzytomnych",
+      "4": "Żadne z powyższych"
+    },
+    "poprawna": 1
+  },
+  {
+    "numer": 35,
+    "pytanie": "Przygotowanie pacjenta do zabiegu operacyjnego obejmuje (wskaż fałszywe):",
+    "odpowiedzi": {
+      "1": "Poinformowanie chorego o celu zabiegu, jego przebiegu, możliwych powikłaniach oraz uzyskanie zgody pacjenta na zabieg",
+      "2": "Zaprzestanie podawania doustnych leków hipoglikemizujących na 2 doby przed zabiegiem",
+      "3": "Zgodę krewnych chorego na pobranie organów do transplantacji w razie ewentualnego zgonu pacjenta",
+      "4": "Ogolenie chorego w miejscu uprzednio zaplanowanego cięcia"
+    },
+    "poprawna": 3
+  },
+  {
+    "numer": 36,
+    "pytanie": "Wyznaczając miejsce przyszłej stomii należy brać pod uwagę:",
+    "odpowiedzi": {
+      "1": "Warunki anatomiczne, np. obecność blizn pooperacyjnych, zmian popromiennych, fałdów tkanki tłuszczowej",
+      "2": "Miejsce planowanego cięcia operacyjnego",
+      "3": "Możliwość samodzielnego zaopatrzenia i pielęgnacji stomii przez chorego",
+      "4": "Wszystkie odpowiedzi są prawidłowe"
+    },
+    "poprawna": 4
+  },
+  {
+    "numer": 37,
+    "pytanie": "Wyznaczanie miejsca stomii przez pielęgniarkę nie jest wymagane u chorego:",
+    "odpowiedzi": {
+      "1": "Z niedrożnością jelit, operowanego w trybie nagłym",
+      "2": "Z rakiem odbytnicy i ze współwystępującym znacznym upośledzeniem wzroku",
+      "3": "Samotnego, który po operacji wyłonienia stomii będzie przebywał w ośrodku opiekuńczo-pielęgnacyjnym 5",
+      "4": "Wszystkie odpowiedzi są błędne"
+    },
+    "poprawna": 4
+  },
+  {
+    "numer": 38,
+    "pytanie": "Występowanie tężyczki w okresie pooperacyjnym:",
+    "odpowiedzi": {
+      "1": "Objawia się uczuciem ziębnięcia kończyn, prowadzi do hipotermii",
+      "2": "Jest częstym powikłaniem po zabiegu cholecystektomii",
+      "3": "Jest następstwem niedoboru wapnia w surowicy krwi",
+      "4": "Wszystkie odpowiedzi są prawidłowe"
+    },
+    "poprawna": 3
+  },
+  {
+    "numer": 39,
+    "pytanie": "Ośrodkowe ciśnienie żylne (OCŻ) służy ocenie:",
+    "odpowiedzi": {
+      "1": "Wypełnienia łożyska naczyniowego i prawego przedsionka serca",
+      "2": "Czynności oddechowej",
+      "3": "Świadomości",
+      "4": "Pracy lewej komory serca"
+    },
+    "poprawna": 1
+  },
+  {
+    "numer": 40,
+    "pytanie": "P/wskazaniem do usprawniania pooperacyjnego jest:",
+    "odpowiedzi": {
+      "1": "Stężenie glukozy < 40 i > 500 mg/ dl",
+      "2": "Gorączka > 38 stopni C",
+      "3": "Niestabilne nadciśnienie > 200/110 mmHg",
+      "4": "Wszystkie odpowiedzi są prawidłowe"
+    },
+    "poprawna": 4
+  },
+  {
+    "numer": 41,
+    "pytanie": "Najczęstszym powikłaniem pionizacji jest:",
+    "odpowiedzi": {
+      "1": "Zaburzenie widzenia",
+      "2": "Zaburzenie oddychania",
+      "3": "Spadek ciśnienia tętniczego krwi i omdlenie ortostatyczne",
+      "4": "Bezwiedne oddanie moczu i stolca"
+    },
+    "poprawna": 3
+  },
+  {
+    "numer": 42,
+    "pytanie": "Ileostomia to:",
+    "odpowiedzi": {
+      "1": "Otwór w tchawicy na przedniej powierzchni skóry",
+      "2": "Połączenie światła jelita cienkiego z powierzchnia skóry",
+      "3": "Stomia odżywcza",
+      "4": "Żadna odpowiedź nie jest prawidłowa"
+    },
+    "poprawna": 2
+  },
+  {
+    "numer": 43,
+    "pytanie": "Właściwy wybór sprzętu stomijnego powinien uwzględniać:",
+    "odpowiedzi": {
+      "1": "Rodzaj stomii, jej wielkość",
+      "2": "Umiejscowienie stomii",
+      "3": "Wrażliwość skóry",
+      "4": "Wszystkie w/w wymienione"
+    },
+    "poprawna": 4
+  },
+  {
+    "numer": 44,
+    "pytanie": "Bezpieczne leczenie operacyjne chorych z nadczynnością tarczycy może odbywać się, gdy ustąpią objawy nadczynności. Stan taki nazywa się:",
+    "odpowiedzi": {
+      "1": "Hipertyreozą",
+      "2": "Eutyreozą",
+      "3": "Hipotyreozą",
+      "4": "Tyreotoksykozą"
+    },
+    "poprawna": 2
+  },
+  {
+    "numer": 45,
+    "pytanie": "Loża po usunięciu tarczycy jest drenowana:",
+    "odpowiedzi": {
+      "1": "Ssaniem Redona",
+      "2": "Sączkiem",
+      "3": "Drenem asekuracyjnym",
+      "4": "Prawidłowe są odpowiedzi B i C"
+    },
+    "poprawna": 1
+  },
+  {
+    "numer": 46,
+    "pytanie": "Do wczesnych objawów zespołu jelita krótkiego nie zaliczamy:",
+    "odpowiedzi": {
+      "1": "Utraty masy ciała 6",
+      "2": "Trudnej do opanowania biegunki",
+      "3": "Niedoborów składników odżywczych i pierwiastków śladowych",
+      "4": "Kamica nerkowa i żółciowa"
+    },
+    "poprawna": 4
+  },
+  {
+    "numer": 47,
+    "pytanie": "Po zabiegu operacyjnym resekcji tarczycy obserwujemy pacjenta pod kątem wystąpienia następujących powikłań:",
+    "odpowiedzi": {
+      "1": "Krwawienia z rany pooperacyjnej",
+      "2": "Wystąpienia przełomu tarczycowego",
+      "3": "Wystąpienia ewentualnej hipokalcemi objawiającej sie klinicznie w postaci tężyczki",
+      "4": "Wszystkie odpowiedzi są prawidłowe"
+    },
+    "poprawna": 4
+  },
+  {
+    "numer": 48,
+    "pytanie": "Wstrząs hipowolemiczny to:",
+    "odpowiedzi": {
+      "1": "Spadek ilości krwi przy zachowanej pojemności łożyska naczyniowego",
+      "2": "Gwałtowne powiększenie pojemności łożyska naczyniowego przy niezmienionej ilości krwi",
+      "3": "Gwałtownie przebiegająca reakcja antygen- przeciwciało",
+      "4": "Odpowiedzi B i C są prawidłowe"
+    },
+    "poprawna": 1
+  },
+  {
+    "numer": 49,
+    "pytanie": "Nagły bardzo silny ból rozpoczynający się pod prawym łukiem żebrowym, najczęściej promieniujący do prawej łopatki, barku i kręgosłupa wskazuje na:",
+    "odpowiedzi": {
+      "1": "Kolkę nerkową",
+      "2": "Kolkę wątrobową",
+      "3": "Perforację wrzodu żołądka",
+      "4": "Zapalenie trzustki"
+    },
+    "poprawna": 2
+  },
+  {
+    "numer": 50,
+    "pytanie": "Podstawowym badaniem stosowanym do diagnostyki nowotworowych zmian dróg żółciowych jest:",
+    "odpowiedzi": {
+      "1": "Endoskopowa wsteczna cholangiopankreatografia",
+      "2": "Gastoskopia",
+      "3": "Arteriografia",
+      "4": "Bronchoskopia"
+    },
+    "poprawna": 1
+  },
+  {
+    "numer": 51,
+    "pytanie": "Podstawową metodą leczenia objawowej kamicy pęcherzyka żółciowego jest:",
+    "odpowiedzi": {
+      "1": "Laparoskopowe usunięcie pęcherzyka",
+      "2": "Laparotomia zwiadowcza",
+      "3": "Pozostawienie bez żadnego zabiegu",
+      "4": "Leczenie lekami rozpuszczającymi."
+    },
+    "poprawna": 1
+  },
+  {
+    "numer": 52,
+    "pytanie": "Do objawów miejscowego zakażenia rany pooperacyjnej nie należy:",
+    "odpowiedzi": {
+      "1": "Obrzęk",
+      "2": "Zaczerwienienie brzegów rany",
+      "3": "Gorączka",
+      "4": "Obecność ropnej wydzieliny z rany"
+    },
+    "poprawna": 3
+  },
+  {
+    "numer": 53,
+    "pytanie": "Pielęgniarskie postępowanie pooperacyjne zawsze obejmuje:",
+    "odpowiedzi": {
+      "1": "Kontrolę podstawowych parametrów życiowych i wydzieliny z drenów",
+      "2": "Pielęgnowanie wkłuć dożylnych",
+      "3": "Podejmowanie działań przeciwbólowych",
+      "4": "Wszystkie odpowiedzi prawidłowe"
+    },
+    "poprawna": 4
+  },
+  {
+    "numer": 54,
+    "pytanie": "Appendectomia oznacza:",
+    "odpowiedzi": {
+      "1": "Zapalenie wyrostka robaczkowego",
+      "2": "Badanie radiologiczne wyrostka robaczkowego 7",
+      "3": "Usunięcie wyrostka robaczkowego",
+      "4": "Nacięcie wyrostka robaczkowego"
+    },
+    "poprawna": 3
+  },
+  {
+    "numer": 55,
+    "pytanie": "Jak często należy wymieniać zestawy do podawania diety w żywieniu dojelitowym?",
+    "odpowiedzi": {
+      "1": "Co 12 godzin",
+      "2": "Co 24 godziny",
+      "3": "Co 48 godzin",
+      "4": "Co 72 godziny"
+    },
+    "poprawna": 2
+  },
+  {
+    "numer": 56,
+    "pytanie": "Pielęgniarskie działania diagnostyczne podejmowane wobec chorego w okresie pooperacyjnym nie obejmują:",
+    "odpowiedzi": {
+      "1": "Rozpoznania problemów pielęgnacyjnych chorego wynikających z unieruchomienia po zabiegu",
+      "2": "Stosowania zasad aseptyki podczas zmiany opatrunku rany pooperacyjnej",
+      "3": "Oceny deficytu samoopieki i możliwości zaspokajania podstawowych potrzeb",
+      "4": "Oceny ryzyka powikłań pooperacyjnych"
+    },
+    "poprawna": 2
+  },
+  {
+    "numer": 57,
+    "pytanie": "Do klinicznych objawów zakrzepicy naczyń kończyn dolnych nie zalicza się:",
+    "odpowiedzi": {
+      "1": "Obrzęk, bolesność, nieco wzmożone ucieplenie",
+      "2": "Rozszerzenie żył układu powierzchownego, zaczerwienie lub zasinienie",
+      "3": "Obrzęk, bladość, nieco obniżona temperatura",
+      "4": "Bolesność, wzmożona konsystencja mięśni podudzia"
+    },
+    "poprawna": 1
+  },
+  {
+    "numer": 58,
+    "pytanie": "Heparyny drobnocząsteczkowe podajemy w okresie okołooperacyjnym w celu:",
+    "odpowiedzi": {
+      "1": "Przywrócenia prawidłowego ukrwienia kończyn",
+      "2": "Zapobiegania powikłaniom zakrzepowo - zatorowym",
+      "3": "Ułatwienia penetracji tkankowej antybiotyku",
+      "4": "Żadne z powyższych"
+    },
+    "poprawna": 2
+  },
+  {
+    "numer": 59,
+    "pytanie": "W zaparciach stosuje się dietę:",
+    "odpowiedzi": {
+      "1": "Bogatoresztkową",
+      "2": "Ubogoresztkową",
+      "3": "Niskobiałkową",
+      "4": "Ubogoenergetyczna"
+    },
+    "poprawna": 1
+  },
+  {
+    "numer": 60,
+    "pytanie": "Kontaminacja to proces polegający na:",
+    "odpowiedzi": {
+      "1": "Rozmnażaniu się patogenu w ranie",
+      "2": "Zasiedlaniu rany przez drobnoustroje",
+      "3": "Zachwianiu równowagi mikrobiologicznej pomiędzy gospodarzem a drobnoustrojem- ilość patogenu <105 w gramie tkanki",
+      "4": "Żadna z odpowiedzi nie jest prawidłowa"
+    },
+    "poprawna": 2
+  },
+  {
+    "numer": 61,
+    "pytanie": "Najważniejszy element procesu diagnostycznego to:",
+    "odpowiedzi": {
+      "1": "badanie podmiotowe",
+      "2": "badanie przedmiotowe",
+      "3": "badania dodatkowe",
+      "4": "żadne z powyższych"
+    },
+    "poprawna": 2
+  },
+  {
+    "numer": 62,
+    "pytanie": "Niedokrwistość z niedoboru żelaza charakteryzuje się:",
+    "odpowiedzi": {
+      "1": "wzrostem wartości hemoglobiny",
+      "2": "spadkiem liczby krwinek białych",
+      "3": "niedobarwliwością krwinek czerwonych 8",
+      "4": "wzrostem liczby krwinek czerwonych"
+    },
+    "poprawna": 3
+  },
+  {
+    "numer": 63,
+    "pytanie": "Badanie inwazyjne, przy pomocy którego możemy ocenić drożność tętnic wieńcowych nazywamy:",
+    "odpowiedzi": {
+      "1": "kolonoskopią",
+      "2": "USG metodą Dopplera",
+      "3": "echokardiografią",
+      "4": "koronarografią"
+    },
+    "poprawna": 4
+  },
+  {
+    "numer": 64,
+    "pytanie": "Defibrylację wykonasz w przypadku:",
+    "odpowiedzi": {
+      "1": "migotania komór",
+      "2": "asystolii",
+      "3": "częstoskurczu komorowego bez tętna",
+      "4": "a i c prawidłowe"
+    },
+    "poprawna": 4
+  },
+  {
+    "numer": 65,
+    "pytanie": "Do charakterystycznych cech bólu wieńcowego nie zalicza się:",
+    "odpowiedzi": {
+      "1": "bólu opisywanego jako dławienie, rozpieranie, ucisk",
+      "2": "nasilania się dolegliwości podczas zmiany pozycji i oddechu",
+      "3": "promieniowania bólu do lewej kończyny górnej, żuchwy, barku",
+      "4": "lokalizacji bólu za mostkiem"
+    },
+    "poprawna": 2
+  },
+  {
+    "numer": 66,
+    "pytanie": "Powierzchowny, ostry, kłujący ból w klatce piersiowej, nasilający się przy oddechu, ulegający złagodzeniu po lekach przeciwbólowych to najprawdopodobniej:",
+    "odpowiedzi": {
+      "1": "ból wieńcowy",
+      "2": "nerwoból",
+      "3": "ból w zatorowości płucnej",
+      "4": "żadna odpowiedź nie jest prawidłowa"
+    },
+    "poprawna": 2
+  },
+  {
+    "numer": 67,
+    "pytanie": "Zespół MAS to:",
+    "odpowiedzi": {
+      "1": "zespół objawów w niewydolności serca",
+      "2": "inna nazwa zespołu metabolicznego",
+      "3": "utrata przytomności z przyczyn kardiologicznych",
+      "4": "obrzęk płuc spowodowany niedokrwieniem mięśnia sercowego"
+    },
+    "poprawna": 3
+  },
+  {
+    "numer": 68,
+    "pytanie": "Wybierz najbardziej trafne określenie właściwości bólu w stabilnej chorobie wieńcowej:",
+    "odpowiedzi": {
+      "1": "występuje głównie w spoczynku",
+      "2": "jest związany z wysiłkiem fizycznym",
+      "3": "nie ustępuje po nitroglicerynie",
+      "4": "trwa zazwyczaj powyżej 30 min"
+    },
+    "poprawna": 2
+  },
+  {
+    "numer": 69,
+    "pytanie": "Wtórne nadciśnienie tętnicze krwi może być spowodowane następującymi schorzeniami za wyjątkiem:",
+    "odpowiedzi": {
+      "1": "zaburzeń hormonalnych",
+      "2": "wad serca i naczyń",
+      "3": "przewlekłych biegunek",
+      "4": "chorób nerek"
+    },
+    "poprawna": 3
+  },
+  {
+    "numer": 70,
+    "pytanie": "Do typowych objawów obrzęku płuc zalicza się:",
+    "odpowiedzi": {
+      "1": "przyjmowanie przez chorego pozycji leżącej",
+      "2": "nagłą, silną duszność",
+      "3": "szybko narastające obrzęki kończyn dolnych",
+      "4": "brak zmian osłuchowych nad polami płucnymi 9"
+    },
+    "poprawna": 4
+  },
+  {
+    "numer": 71,
+    "pytanie": "Ostra niewydolność prawokomorowa u osoby z żylakami kończyn dolnych, z zakrzepowym zapaleniem żył w wywiadzie nasuwa podejrzenie:",
+    "odpowiedzi": {
+      "1": "zatoru tętnicy płucnej",
+      "2": "zawału mięśnia sercowego",
+      "3": "masywnego zapalenia płuc",
+      "4": "udaru niedokrwiennego mózgu"
+    },
+    "poprawna": 1
+  },
+  {
+    "numer": 72,
+    "pytanie": "Krwioplucie może wystąpić w niżej wymienionych schorzeniach z wyjątkiem:",
+    "odpowiedzi": {
+      "1": "raka oskrzeli",
+      "2": "napadu astmy oskrzelowej",
+      "3": "gruźlicy płuc",
+      "4": "zatorowości płucnej"
+    },
+    "poprawna": 2
+  },
+  {
+    "numer": 73,
+    "pytanie": "Do typowych objawów POChP nie zalicza się:",
+    "odpowiedzi": {
+      "1": "wilgotnego kaszlu z odpluwaniem wydzieliny",
+      "2": "duszności, początkowo wysiłkowej, a następnie spoczynkowej",
+      "3": "przewlekłej, nieustępującej chrypki",
+      "4": "sinicy"
+    },
+    "poprawna": 3
+  },
+  {
+    "numer": 74,
+    "pytanie": "Na całkowitą niewydolność oddechową składają się następujące zaburzenia:",
+    "odpowiedzi": {
+      "1": "hipoksemia, hiperkapnia i zasadowica oddechowa",
+      "2": "hipoksemia, hipokapnia i kwasica oddechowa",
+      "3": "hipoksemia, hiperkapnia i kwasica oddechowa",
+      "4": "hiperkapnia i kwasica oddechowa (prężność tlenu w normie)"
+    },
+    "poprawna": 3
+  },
+  {
+    "numer": 75,
+    "pytanie": "U pacjenta z nagłą, silną dusznością, kaszlem z odkrztuszaniem różowej plwociny, przyjmującego pozycję siedzącą oraz z niewydolnością krążenia w wywiadzie należy podejrzewać:",
+    "odpowiedzi": {
+      "1": "astmę oskrzelową",
+      "2": "obrzęk płuc",
+      "3": "POChP",
+      "4": "raka płuc"
+    },
+    "poprawna": 2
+  },
+  {
+    "numer": 76,
+    "pytanie": "Gruźlica spowodowana jest przez zakażenie bakterią:",
+    "odpowiedzi": {
+      "1": "Escherichia coli",
+      "2": "Clostridium tetani",
+      "3": "Pseudomonas aeruginosa",
+      "4": "Mycobacterium tuberculosis"
+    },
+    "poprawna": 4
+  },
+  {
+    "numer": 77,
+    "pytanie": "Najczęstszym powikłaniem ostrej i przewlekłej biegunki jest:",
+    "odpowiedzi": {
+      "1": "wystąpienie zaburzeń oddychania",
+      "2": "odwodnienie chorego",
+      "3": "powstanie żylaków odbytu",
+      "4": "utrata przytomności"
+    },
+    "poprawna": 2
+  },
+  {
+    "numer": 78,
+    "pytanie": "Uporczywe zaparcia z obecnością krwi w stolcu, bólami brzucha oraz towarzyszącym chudnięciem wymagają pilnego:",
+    "odpowiedzi": {
+      "1": "badania stolca na obecność pasożytów",
+      "2": "podania leków przeczyszczających",
+      "3": "wykonania kolonoskopii",
+      "4": "przetoczenia preparatów krwiopochodnych"
+    },
+    "poprawna": 3
+  },
+  {
+    "numer": 79,
+    "pytanie": "Przewlekłe zapalenie błony śluzowej żołądka rozpoznaje się na podstawie: 10",
+    "odpowiedzi": {
+      "1": "wywiadu",
+      "2": "dodatniego wyniku badania na obecność H. pylori",
+      "3": "gastroskopii",
+      "4": "gastroskopii i badania histopatologicznego wycinka błony śluzowej żołądka"
+    },
+    "poprawna": 4
+  },
+  {
+    "numer": 80,
+    "pytanie": "Bóle w nadbrzuszu, na czczo i w nocy, ustępujące po spożyciu pokarmów, nasilające się wiosną i jesienią są charakterystyczne dla:",
+    "odpowiedzi": {
+      "1": "wrzodu dwunastnicy",
+      "2": "wrzodu żołądka",
+      "3": "krwawienia z wrzodu żołądka lub dwunastnicy",
+      "4": "przewlekłego zapalenia trzustki"
+    },
+    "poprawna": 1
+  },
+  {
+    "numer": 81,
+    "pytanie": "Bóle brzucha, niechęć do mięsa, niedokrwistość, chudnięcie, brak łaknienia mogą być objawami charakterystycznymi dla:",
+    "odpowiedzi": {
+      "1": "kamicy pęcherzyka żółciowego",
+      "2": "stłuszczenia wątroby",
+      "3": "raka żołądka",
+      "4": "ostrego zapalenie trzustki"
+    },
+    "poprawna": 3
+  },
+  {
+    "numer": 82,
+    "pytanie": "Przewlekła choroba zapalna błony śluzowej jelita grubego, szerząca się w sposób ciągły z wytworzeniem owrzodzeń powierzchniowej warstwy błony śluzowej, występująca zawsze w zakresie odbytnicy to opis charakterystyczny dla:",
+    "odpowiedzi": {
+      "1": "colitis ulcerosa (wrzodziejącego zapalenia jelita grubego)",
+      "2": "choroby Leśniowskiego – Crohna",
+      "3": "obu wymienionych",
+      "4": "żadnej z powyższych"
+    },
+    "poprawna": 1
+  },
+  {
+    "numer": 83,
+    "pytanie": "Do typowych objawów ostrego zapalenia trzustki nie zalicza się:",
+    "odpowiedzi": {
+      "1": "bardzo silnego bólu brzucha promieniującego do pleców",
+      "2": "biegunki",
+      "3": "nudności i wymiotów",
+      "4": "wzrostu stężeń amylazy i lipazy w surowicy krwi"
+    },
+    "poprawna": 2
+  },
+  {
+    "numer": 84,
+    "pytanie": "Przewlekłe zapalenie trzustki może być przyczyną powstania:",
+    "odpowiedzi": {
+      "1": "cukrzycy",
+      "2": "otyłości",
+      "3": "kamicy pęcherzyka żółciowego",
+      "4": "nawykowych zaparć"
+    },
+    "poprawna": 1
+  },
+  {
+    "numer": 85,
+    "pytanie": "Trudności w oddawaniu moczu z uczuciem palenia w cewce moczowej lub częstym parciem na mocz określa termin:",
+    "odpowiedzi": {
+      "1": "dysuria",
+      "2": "nykturia",
+      "3": "poliuria",
+      "4": "oliguria"
+    },
+    "poprawna": 1
+  },
+  {
+    "numer": 86,
+    "pytanie": "Przyczyną przednerkowej niewydolności nerek może być:",
+    "odpowiedzi": {
+      "1": "wstrząs pokrwotoczny",
+      "2": "przeszkoda w drogach moczowych",
+      "3": "polekowe uszkodzenie nerek",
+      "4": "wszystkie odpowiedzi prawidłowe"
+    },
+    "poprawna": 1
+  },
+  {
+    "numer": 87,
+    "pytanie": "Do objawów reumatoidalnego zapalenia stawów zalicza się z wyjątkiem: 11",
+    "odpowiedzi": {
+      "1": "sztywności porannej",
+      "2": "obrzęku stawów międzypaliczkowych bliższych",
+      "3": "obrzęku stawów międzypaliczkowych dalszych",
+      "4": "łokciowego odchylenia palców rąk"
+    },
+    "poprawna": 3
+  },
+  {
+    "numer": 88,
+    "pytanie": "Przyczyną nadczynności tarczycy nie jest:",
+    "odpowiedzi": {
+      "1": "choroba Gravesa- Basedowa",
+      "2": "zastosowanie leczenia jodem radioaktywnym",
+      "3": "gruczolak przysadki produkujący TSH",
+      "4": "rak tarczycy"
+    },
+    "poprawna": 4
+  },
+  {
+    "numer": 89,
+    "pytanie": "Zmęczenie, senność, apatia, przyrost masy ciała, suche i łamliwe włosy, skłonność do zaparć, bradykardia oraz niski ton głosu to objawy charakterystyczne dla:",
+    "odpowiedzi": {
+      "1": "nadczynności tarczycy",
+      "2": "niedoczynności tarczycy",
+      "3": "zespołu Cushinga",
+      "4": "niedoczynności kory nadnerczy"
+    },
+    "poprawna": 2
+  },
+  {
+    "numer": 90,
+    "pytanie": "Do grupy ryzyka rozwoju cukrzycy typu 2 nie zaliczysz osób z:",
+    "odpowiedzi": {
+      "1": "nadwagą lub otyłością typu brzusznego",
+      "2": "nadciśnieniem tętniczym",
+      "3": "wysokimi wartościami frakcji HDL cholesterolu w surowicy krwi",
+      "4": "wysokimi wartościami trójglicerydów w surowicy krwi"
+    },
+    "poprawna": 3
+  },
+  {
+    "numer": 91,
+    "pytanie": "Do przyczyn wystąpienia kwasicy ketonowej nie zaliczysz:",
+    "odpowiedzi": {
+      "1": "ostrych zakażeń bakteryjnych i wirusowych",
+      "2": "nadużywania alkoholu",
+      "3": "krótkotrwałych wartości glikemii > 200 mg %",
+      "4": "przerwania insulinoterapii lub błędów w jej stosowaniu"
+    },
+    "poprawna": 3
+  },
+  {
+    "numer": 92,
+    "pytanie": "Do typowych objawów hipoglikemii nie należy:",
+    "odpowiedzi": {
+      "1": "drżenie mięśniowe",
+      "2": "suchość w jamie ustnej",
+      "3": "poty",
+      "4": "utrata przytomności"
+    },
+    "poprawna": 2
+  },
+  {
+    "numer": 93,
+    "pytanie": "W zakres zasad zdrowego żywienia nie wchodzi:",
+    "odpowiedzi": {
+      "1": "spożywanie pożywienia o wartości energetycznej odpowiadającej rzeczywistemu zapotrzebowaniu organizmu",
+      "2": "spożywanie w nadmiarze produktów zawierających tłuszcze nasycone",
+      "3": "wybieranie do spożycia produktów węglowodanowych zawierających dużo włókien naturalnych (błonnik) i charakteryzujących się niskim indeksem glikemicznym",
+      "4": "ograniczone spożywanie wina przy całkowitej rezygnacji z napojów wysokoalkoholowych i piwa"
+    },
+    "poprawna": 2
+  },
+  {
+    "numer": 94,
+    "pytanie": "Czynnikiem ryzyka rozwoju zespołu stopy cukrzycowej nie jest:",
+    "odpowiedzi": {
+      "1": "źle dopasowane obuwie i chodzenie na boso",
+      "2": "stosowanie doustnych leków przeciwcukrzycowych",
+      "3": "złe wyrównanie cukrzycy",
+      "4": "nieprawidłowa higiena paznokci i stóp"
+    },
+    "poprawna": 2
+  },
+  {
+    "numer": 95,
+    "pytanie": "Jaką zastosujesz dietę u pacjenta z zespołem nerczycowym:",
+    "odpowiedzi": {
+      "1": "wysokobiałkową, ubogosodową 12",
+      "2": "normobiałkową, ubogosodową",
+      "3": "niskowęglowodanową, wysokotłuszczową",
+      "4": "Bezresztkową"
+    },
+    "poprawna": 2
+  },
+  {
+    "numer": 96,
+    "pytanie": "Insulinę długodziałającą podawaną w dwóch dawkach „baza” zaleca się podawać:",
+    "odpowiedzi": {
+      "1": "w udo",
+      "2": "w brzuch",
+      "3": "w ramię",
+      "4": "miejsce nie ma większego znaczenia"
+    },
+    "poprawna": 1
+  },
+  {
+    "numer": 97,
+    "pytanie": "W żywieniu chorego na cukrzycę typu II zaleca się stosowanie węglowodanów:",
+    "odpowiedzi": {
+      "1": "prostych i złożonych",
+      "2": "indeksie glikemicznym większym niż 50%",
+      "3": "indeksie glikemicznym mniejszym niż 50%",
+      "4": "tylko węglowodanów prostych"
+    },
+    "poprawna": 3
+  },
+  {
+    "numer": 98,
+    "pytanie": "Dla śpiączki hipoglikemicznej charakterystyczne jest:",
+    "odpowiedzi": {
+      "1": "powolne występowanie objawów, zapach acetonu z ust",
+      "2": "skóra sucha, oddech przyśpieszony, źrenice wąskie, wielomocz",
+      "3": "brak ustąpienia objawów po dożylnym podaniu glukozy",
+      "4": "nagłe wystąpienie objawów, skóra zlana potem, wzmożone napięcie mięśniowe, źrenice szerokie"
+    },
+    "poprawna": 4
+  },
+  {
+    "numer": 99,
+    "pytanie": "Podawanie pozajelitowe żelaza uzasadnione jest w następujących przypadkach:",
+    "odpowiedzi": {
+      "1": "u pacjentów z niedoborami białkowymi,wymagającymi uzyskania szybkiej poprawy np. w celu przygotowania do zabiegu operacyjnego",
+      "2": "u pacjentów nie tolerujących preparatów doustnych, z upośledzonym wchłanianiem żelaza z przewodu pokarmowego",
+      "3": "przy znacznym niedoborze żelaza stwierdzanym w przypadku choroby wrzodowej żołądka i dwunastnicy",
+      "4": "przy dużej utracie krwi krążącej z powodu krwotoku"
+    },
+    "poprawna": 2
+  },
+  {
+    "numer": 100,
+    "pytanie": "Oklepywanie chorego w przewlekłej obturacyjnej chorobie płuc jest szczególnie skuteczne:",
+    "odpowiedzi": {
+      "1": "zaraz po wykonaniu inhalacji",
+      "2": "po przebudzeniu chorego",
+      "3": "w godzinach południowych",
+      "4": "po podaniu antybiotyków"
+    },
+    "poprawna": 1
+  },
+  {
+    "numer": 101,
+    "pytanie": "W rozstrzeni oskrzeli drenujemy segmenty podstawowe boczne obu płatów dolnych w:",
+    "odpowiedzi": {
+      "1": "ułożeniu na boku lewym lub prawym, głowa lekko skierowana w dół, nachylenie tułowia do podłoża wynosi 30o, ręka lewa lub prawa pod głową",
+      "2": "ułożeniu na plecach lub na brzuchu, nachylenie bioder do przodu pod katem 30o (koc pod biodra)",
+      "3": "ułożenie na brzuchu , nachylenie w stosunku do podłoża wynosi 45o",
+      "4": "ułożenie na boku prawym z lekką rotacją tułowia do tyłu, uniesienie tułowia pod kątem 30o"
+    },
+    "poprawna": 1
+  },
+  {
+    "numer": 102,
+    "pytanie": "Inhalacje wykonujemy:",
+    "odpowiedzi": {
+      "1": "przed posiłkiem",
+      "2": "po posiłku 30 minut",
+      "3": "zawsze w pozycji leżącej na płasko",
+      "4": "odpowiedz a i b jest prawidłowa 13"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 103,
+    "pytanie": "Jaką dietę zastosujesz u pacjenta z kamicą pęcherzyka żółciowego leczonego zachowawczo?",
+    "odpowiedzi": {
+      "1": "wysokokaloryczną, wielowitaminową",
+      "2": "niskobiałkową",
+      "3": "niskotłuszczową, wysokobiałkową",
+      "4": "łatwo strawna, z ograniczeniem tłuszczów"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 104,
+    "pytanie": "Jaki oddech może wystąpić u pacjenta z ciężką kwasicą mocznicową:",
+    "odpowiedzi": {
+      "1": "oddech Biota",
+      "2": "oddech Kussmaula",
+      "3": "oddech Cheyne’a-Stokesa",
+      "4": "bezdech"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 105,
+    "pytanie": "Który okres przewlekłej niewydolności nerek będzie charakteryzował się wystąpieniem wielomoczu:",
+    "odpowiedzi": {
+      "1": "okres utajony (I)",
+      "2": "okres niewyrównanej retencji (III)",
+      "3": "okres wyrównany (II)",
+      "4": "okres schyłkowy (IV)"
+    },
+    "poprawna": 2
+  },
+  {
+    "numer": 106,
+    "pytanie": "W intensywnej insulinoterapii przy obliczaniu dawki insuliny okołoposiłkowej trzeba wziąć pod uwagę:",
+    "odpowiedzi": {
+      "1": "poziom glikemii przed posiłkiem",
+      "2": "ilość wymienników węglowodanowych na dany posiłek",
+      "3": "a+b i planowany wysiłek fizyczny",
+      "4": "stosunek procentowy tłuszczów do białka"
+    },
+    "poprawna": 3
+  },
+  {
+    "numer": 107,
+    "pytanie": "Wskaż podstawowa zasadę w redukowaniu masy ciała u osoby otyłej z cukrzycą typu 2:",
+    "odpowiedzi": {
+      "1": "redukcja masy ciała 1kg na tydzień",
+      "2": "redukcja około 10% z dotychczasowej masy ciała w przeciągu roku",
+      "3": "redukcja masy ciała do masy należnej w jak najkrótszym czasie",
+      "4": "masa ciała nie ma istotnego wpływu na wyrównanie cukrzycy"
+    },
+    "poprawna": 1
+  },
+  {
+    "numer": 108,
+    "pytanie": "Sprawując opiekę nad pacjentami ze schorzeniami reumatoidalnymi pielęgniarka powinna kontrolować:",
+    "odpowiedzi": {
+      "1": "tętno, ciśnienie, oddech, zabarwienie powłok skórnych",
+      "2": "podstawowe parametry, zakres ruchomości stawów, dawki leków",
+      "3": "wzrost, masę ciała, ruchomość stawów, dawki leków",
+      "4": "podstawowe parametry, wzrost, masę ciała"
+    },
+    "poprawna": 2
+  },
+  {
+    "numer": 109,
+    "pytanie": "Do czynników ryzyka choroby zwyrodnieniowej należą:",
+    "odpowiedzi": {
+      "1": "otyłość, wiek, przebyte urazy, praca fizyczna z obciążeniem stawów",
+      "2": "choroby serca i układu krążenia, praca fizyczna z obciążeniem stawów, urazy stawów",
+      "3": "prawidłowa budowa stawów, praca fizyczna z obciążeniem stawów",
+      "4": "wszystkie odpowiedzi są prawidłowe"
+    },
+    "poprawna": 1
+  },
+  {
+    "numer": 110,
+    "pytanie": "W zapobieganiu przykurczom w chorobach narządu ruchu duże znaczenie ma:",
+    "odpowiedzi": {
+      "1": "sprawdzenie zakresu ruchu w stawach kolanowych i skokowych, obserwacja ułożenia kończyn w łóżku, codzienne ćwiczenia obejmujące pełen zakres ruchów 14",
+      "2": "sposób siadania na łóżku, ubierania się, zaspakajania potrzeb fizjologicznych oraz ustawianie pionowe chorego",
+      "3": "obserwacja ułożenia kończyn w czasie stawania na nogi, sposób trzymania łyżki i podnoszenia jej do ust, sposób wydalania",
+      "4": "żadna z odpowiedzi nie jest prawidłowa"
+    },
+    "poprawna": 1
+  },
+  {
+    "numer": 111,
+    "pytanie": "Zmniejszenie bólu w chorobach reumatycznych można osiągnąć poprzez:",
+    "odpowiedzi": {
+      "1": "podawanie leków przeciwbólowych, położenie do łóżka i ograniczenie ruchomości w ostrej fazie choroby",
+      "2": "podawanie leków przeciwzapalnych, antybiotyków i stosowanie okładów parafinowych",
+      "3": "wykonywanie suchych, ciepłych okładów",
+      "4": "prawidłowa odpowiedź a i c"
+    },
+    "poprawna": 4
+  },
+  {
+    "numer": 112,
+    "pytanie": "Które badania mają zastosowanie w diagnostyce niedokrwistości:",
+    "odpowiedzi": {
+      "1": "poziom hemoglobiny, morfologia, OB",
+      "2": "badanie kału na obecność krwi utajonej + morfologia",
+      "3": "poziom hemoglobiny, morfologia z rozmazem, poziom elektrolitów, zawartość żelaza w surowicy krwi",
+      "4": "gazometria, poziom elektrolitów, badanie ogólne moczu"
+    },
+    "poprawna": 3
+  },
+  {
+    "numer": 113,
+    "pytanie": "Przyczyną ostrego zapalenia oskrzeli są najczęściej:",
+    "odpowiedzi": {
+      "1": "bakterie",
+      "2": "wirusy grypy",
+      "3": "alergeny",
+      "4": "palenie tytoniu i wpływ czynników środowiskowych"
+    },
+    "poprawna": 2
+  },
+  {
+    "numer": 114,
+    "pytanie": "W diecie w okresie zaostrzeń w chorobie wrzodowej żołądka i dwunastnicy zastosujesz:",
+    "odpowiedzi": {
+      "1": "dietę ścisłą",
+      "2": "dietę wysokowęglowodanową i niskotłuszczową",
+      "3": "dietę niskobiałkową, wielowitaminową",
+      "4": "łatwo strawna z ograniczeniem produktów pobudzających wydzielanie soku żołądkowego"
+    },
+    "poprawna": 4
+  },
+  {
+    "numer": 115,
+    "pytanie": "W edukacji pacjentów z chorobą wrzodową żołądka i dwunastnicy powinniśmy zwrócić uwagę na:",
+    "odpowiedzi": {
+      "1": "objawy świadczące o zaostrzeniu choroby np. silne dolegliwości bólowe w podbrzuszu, wymioty, spadek masy ciała",
+      "2": "eliminację z diety: cukrów prostych, produktów wędzonych, smażonych, napoi gazowanych.",
+      "3": "częste wykonywanie gastroskopii, wypijanie dużych ilości płynów niegazowanych",
+      "4": "stosowanie płynów gazowanych podczas posiłków, spożywanie gotowanego mięsa i gotowanych warzyw i owoców"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 116,
+    "pytanie": "W okresie zaostrzeń pacjent z wrzodziejącym zapaleniem jelita grubego powinien stosować dietę?",
+    "odpowiedzi": {
+      "1": "wysokowęglowodanową",
+      "2": "dietę płynną – syntetyczną dietę zbilansowaną/ bezresztkową/",
+      "3": "z ograniczeniem błonnika, cukrów prostych, aminokwasów",
+      "4": "z ograniczeniem białka, tłuszczy zwierzęcych, potasu"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 117,
+    "pytanie": "U pacjentów wymiotujących przede wszystkim będziesz dążyła do:",
+    "odpowiedzi": {
+      "1": "higieny jamy ustnej i odnotowywania wymiotów 15",
+      "2": "nawadniania organizmu",
+      "3": "uzupełniania niedoborów wody i elektrolitów",
+      "4": "prowadzenia dobowej zbiórki moczu"
+    },
+    "poprawna": 1
+  },
+  {
+    "numer": 118,
+    "pytanie": "Pielęgnując pacjenta po wykonaniu koronarografii:",
+    "odpowiedzi": {
+      "1": "pielęgniarka przypomina choremu o konieczności pozostania w łóżku przez 24 godziny z wyprostowaną kończyną",
+      "2": "chory może zginać kończynę w stawie kolanowym i przybierać pozycję siedzącą",
+      "3": "pacjent może udać się do toalety na wózku siedzącym",
+      "4": "chory może chodzić"
+    },
+    "poprawna": 1
+  },
+  {
+    "numer": 119,
+    "pytanie": "Obserwacja chorego po zastosowanym leczeniu trombolitycznym dotyczy:",
+    "odpowiedzi": {
+      "1": "zabarwienia stolca i moczu",
+      "2": "zabarwienia śluzówek",
+      "3": "krwawienia ze śluzówek, z miejsc wkłuć, krwioplucia",
+      "4": "odpowiedź a i c"
+    },
+    "poprawna": 4
+  },
+  {
+    "numer": 120,
+    "pytanie": "Ułatwienie oddychania, zmniejszenie duszności spowodowanej zmianami chorobowymi w układzie krążenia uzyskamy poprzez:",
+    "odpowiedzi": {
+      "1": "ułożenie pacjenta w pozycji wysokiej (Fowlera), lub półwysokiej (semi Fowlera)",
+      "2": "ułożenie chorego płasko z uniesionymi kończynami dolnymi",
+      "3": "ułożenie chorego w pozycji wysokiej z opuszczonymi nogami",
+      "4": "odpowiedź prawidłowa a i c"
+    },
+    "poprawna": 4
+  },
+  {
+    "numer": 121,
+    "pytanie": "Podczas stosowania leków rozszerzających naczynia do których należą azotany (np. nitrogliceryna), należy obserwować:",
+    "odpowiedzi": {
+      "1": "występowanie sinicy dystalnych części ciała",
+      "2": "ciśnienie tętnicze i częstość akcji serca",
+      "3": "występowanie duszności",
+      "4": "występowanie bólu wieńcowego"
+    },
+    "poprawna": 2
+  },
+  {
+    "numer": 122,
+    "pytanie": "Edukacja pacjenta z przewlekłą niewydolnością serca, przyjmującego na stałe leki moczopędne, ma na celu przekazanie choremu zaleceń dotyczących:",
+    "odpowiedzi": {
+      "1": "spożywania dodatkowych ilości płynów",
+      "2": "ograniczenia płynów do 1,5-2,0 l na dobę",
+      "3": "spożywanie pokarmów ubogich w potas",
+      "4": "prawidłowa odpowiedź a i c"
+    },
+    "poprawna": 2
+  },
+  {
+    "numer": 123,
+    "pytanie": "Nadciśnienie pierwotne:",
+    "odpowiedzi": {
+      "1": "jest spowodowane zwężeniem tętnicy nerkowej",
+      "2": "występuje u większości chorych z nadciśnieniem a jego przyczyna nie jest do końca wyjaśniona",
+      "3": "występuje gdy wartości ciśnienia przekraczają 130/85 mmHg",
+      "4": "to nadciśnienie nie związane z nakładającymi się na siebie czynnikami środowiskowymi i dziedzicznymi"
+    },
+    "poprawna": 2
+  },
+  {
+    "numer": 124,
+    "pytanie": "Model B rehabilitacji kardiologicznej dotyczy:",
+    "odpowiedzi": {
+      "1": "rehabilitacji chorych po koronarografii",
+      "2": "rehabilitacji chorych z zawałem serca niepowikłanym",
+      "3": "rehabilitacji chorych u których w ciągu 3-5 dni od ostrego incydentu wieńcowego stwierdza się ostrą niewydolność lewokomorową, zaburzenia rytmu",
+      "4": "rehabilitacji chorych z przewlekłą niewydolnością krążenia 16"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 125,
+    "pytanie": "Który z wymienionych czynników zwiększa ryzyko przewlekłego odmiedniczkowego zapalenia nerek:",
+    "odpowiedzi": {
+      "1": "zmiany w drogach moczowych utrudniające odpływ moczu",
+      "2": "nadciśnienie tętnicze",
+      "3": "dieta wysokosodowa",
+      "4": "kamica nerkowa"
+    },
+    "poprawna": 4
+  },
+  {
+    "numer": 126,
+    "pytanie": "Edukując pacjenta z niedoczynnością tarczycy w zakresie przyjmowania hormonów tarczycy zwrócisz uwagę na:",
+    "odpowiedzi": {
+      "1": "przyjmowanie hormonu doustnie, w jednej dawce dobowej, rano, 20 – 30 minut przed pierwszym posiłkiem",
+      "2": "przyjmowanie hormonu doustnie, w dwóch dawkach, rano i wieczorem, 20 – 30 minut przed posiłkiem",
+      "3": "przyjmowanie hormonu domięśniowo tylko w obecności pielęgniarki",
+      "4": "przyjmowanie hormonu doustnie niezależnie od pory dnia"
+    },
+    "poprawna": 1
+  },
+  {
+    "numer": 127,
+    "pytanie": "Pielęgnując pacjenta z astmą oskrzelową w napadzie duszności o nasileniu małym lub średnim zastosujesz:",
+    "odpowiedzi": {
+      "1": "pozycję siedzącą lub stojącą z ustabilizowaniem obręczy barkowej",
+      "2": "pozycję rozluźniającą z oparciem przedramion o mebel i głową na przedramionach",
+      "3": "pozycję półwysoką z opuszczonymi kończynami dolnymi",
+      "4": "pozycję siedzącą z pochyleniem do przodu"
+    },
+    "poprawna": [
+      4,
+      3
+    ]
+  },
+  {
+    "numer": 128,
+    "pytanie": "Niedokrwistość z niedoboru kwasu foliowego powstaje w wyniku:",
+    "odpowiedzi": {
+      "1": "zmian zanikowych błony śluzowej przewodu pokarmowego",
+      "2": "działania czynników chemicznych i/lub fizycznych",
+      "3": "niedoborów w diecie oraz zaburzeń wchłaniania (np. zespół złego wchłaniania)",
+      "4": "występowania chorób zakaźnych"
+    },
+    "poprawna": 3
+  },
+  {
+    "numer": 129,
+    "pytanie": "Profilaktyka wtórna (II fazy) ma na celu:",
+    "odpowiedzi": {
+      "1": "zapobieganie konsekwencjom choroby poprzez jej wczesne wykrycie i leczenie (przesiewowe badania skriningowe)",
+      "2": "zapobieganie chorobie poprzez kontrolowanie czynników ryzyka w odniesieniu do osób narażonych na te czynniki ryzyka",
+      "3": "działania zmierzające w kierunku zahamowania postępu choroby oraz ograniczenia powikłań",
+      "4": "utrwalenie prawidłowych wzorców zdrowego stylu życia i zapobieganie szerzeniu się niekorzystnych wzorców zachowań w odniesieniu do osób zdrowych"
+    },
+    "poprawna": 1
+  },
+  {
+    "numer": 130,
+    "pytanie": "0,5 mg jaka to część grama:",
+    "odpowiedzi": {
+      "1": "5",
+      "2": "0,05",
+      "3": "0,0005",
+      "4": "0,005"
+    },
+    "poprawna": 3
+  },
+  {
+    "numer": 131,
+    "pytanie": "Jaką zastosujesz dietę u pacjenta z niewydolnością nerek:",
+    "odpowiedzi": {
+      "1": "bogatoresztkową, niskowęglowodanową",
+      "2": "ubogobiałkową, hipolipemiczną, ubogosodową",
+      "3": "bogatobiałkowa, hiperlipemiczną",
+      "4": "ubogoresztkową, ubogosodową, wysokowęglowodanową 17"
+    },
+    "poprawna": 2
+  },
+  {
+    "numer": 132,
+    "pytanie": "Pacjent lat 28 zgłasza ból w podbrzuszu promieniujący do krocza połączony z częstym oddawanie moczu, mający charakter pieczenia podczas mikcji, może świadczyć o:",
+    "odpowiedzi": {
+      "1": "kamicy nerkowej",
+      "2": "zapaleniu pęcherza moczowego",
+      "3": "zapaleniu jądra",
+      "4": "cukrzycy"
+    },
+    "poprawna": 2
+  },
+  {
+    "numer": 133,
+    "pytanie": "Od czego zależy ilość podawanych płynów u pacjenta z przewlekłą niewydolnością nerek:",
+    "odpowiedzi": {
+      "1": "od zaburzeń gospodarki kwasowo-zasadowej",
+      "2": "od stopnia upośledzenia zagęszczania moczu przez nerki oraz wielkości strat fizjologicznych i niefizjologicznych",
+      "3": "od zaburzeń gospodarki wodno-elektrolitowej",
+      "4": "odpowiedź a i c jest prawidłowa"
+    },
+    "poprawna": 2
+  },
+  {
+    "numer": 134,
+    "pytanie": "Co rozumiesz pod pojęciem – „ utrata wody niefizjologiczna”:",
+    "odpowiedzi": {
+      "1": "wymioty, biegunka, nadmierne poty",
+      "2": "częste oddawanie moczu (pollaksuria)",
+      "3": "wielomocz (polyuria)",
+      "4": "żadna odpowiedz nie jest prawidłowa"
+    },
+    "poprawna": 1
+  },
+  {
+    "numer": 135,
+    "pytanie": "Przyczyny takie jak.: krwotoki, nadmierna utrata płynów, zmniejszenie objętości wyrzutowej serca świadczą o:",
+    "odpowiedzi": {
+      "1": "nerkowej ostrej niewydolności nerek",
+      "2": "przednerkowej ostrej niewydolnosci nerek",
+      "3": "pozanerkowej ostrej niewydolności nerek",
+      "4": "nowotwory nerek"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 136,
+    "pytanie": "Charakterystycznymi objawami uszkodzenia nerek są:",
+    "odpowiedzi": {
+      "1": "białkomocz, zaburzenia zagęszczania moczu",
+      "2": "nadciśnienie tętnicze",
+      "3": "tachykardia",
+      "4": "odpowiedź a i b jest prawidłowa"
+    },
+    "poprawna": 4
+  },
+  {
+    "numer": 137,
+    "pytanie": "Jaki oddech może wystąpić u pacjenta z ciężką kwasicą mocznicową:",
+    "odpowiedzi": {
+      "1": "oddech Biota",
+      "2": "oddech Kussmaula",
+      "3": "oddech Cheyne’a-Stokesa",
+      "4": "bezdech"
+    },
+    "poprawna": 2
+  },
+  {
+    "numer": 138,
+    "pytanie": "Jaki stan będzie charakteryzował pacjenta z następującymi objawami: obniżenie RR, tachykardia, skąpomocz, zmniejszenie masy ciała, zmniejszenie napięcia i suchość skóry:",
+    "odpowiedzi": {
+      "1": "hiperwolemia",
+      "2": "hipowolemia",
+      "3": "hipokalcemia",
+      "4": "hipernatrenia"
+    },
+    "poprawna": 2
+  },
+  {
+    "numer": 139,
+    "pytanie": "Który okres przewlekłej niewydolności nerek będzie charakteryzował się wystąpieniem wielomoczu:",
+    "odpowiedzi": {
+      "1": "okres utajony (I)",
+      "2": "okres niewyrównanej retencji (III)",
+      "3": "okres wyrównany (II)",
+      "4": "okres schyłkowy (IV) 18"
+    },
+    "poprawna": 2
+  },
+  {
+    "numer": 140,
+    "pytanie": "Jak należy pobrać mocz do badania bakteriologicznego u pacjenta bez założonego cewnika do pęcherza moczowego:",
+    "odpowiedzi": {
+      "1": "pobrać ze środkowego strumienia z zachowaniem pełnej aseptyki",
+      "2": "mocz pobrany nie musi być jałowy",
+      "3": "nie jest istotne, z którego strumienia pobieramy",
+      "4": "odpowiedz b i c jest prawidłowa"
+    },
+    "poprawna": 1
+  },
+  {
+    "numer": 141,
+    "pytanie": "Obrzęki pochodzenia nerkowego obserwujemy:",
+    "odpowiedzi": {
+      "1": "na brzuchu i kończynach dolnych",
+      "2": "na twarzy i rękach utrzymujące się po odpoczynku nocnym",
+      "3": "w okolicy lędźwiowo-krzyżowej",
+      "4": "zależą od pozycji ciała chorego"
+    },
+    "poprawna": 2
+  },
+  {
+    "numer": 142,
+    "pytanie": "Przyczyną kłębuszkowego zapalenia nerek nie są:",
+    "odpowiedzi": {
+      "1": "zmiany chorobowe w kłębuszkach nerkowych",
+      "2": "niedokrwienie i czynniki metaboliczne",
+      "3": "zakażenie paciorkowcowe",
+      "4": "odpowiedz a i c jest prawidłowa"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 143,
+    "pytanie": "Które z wymienionych czynników zwiększają ryzyko przewlekłego odmiedniczkowego zapalenia nerek:",
+    "odpowiedzi": {
+      "1": "zmiany w drogach moczowych utrudniające odpływ moczu",
+      "2": "nadciśnienie tętnicze",
+      "3": "dieta wysokosodowa",
+      "4": "odpowiedz b i c jest prawidłowa"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 144,
+    "pytanie": "Jaką zastosujesz dietę u pacjenta z zespołem nerczycowym:",
+    "odpowiedzi": {
+      "1": "wysokobiałkową, ubogosodową",
+      "2": "normobiałkową, ubogosodową",
+      "3": "niskowęglowodanową, wysokotłuszczową",
+      "4": "bezresztkową"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 145,
+    "pytanie": "Czynnikami ryzyka zakażenia dróg moczowych są:",
+    "odpowiedzi": {
+      "1": "cewnikowanie pęcherza moczowego, zaleganie moczu w pęcherzu, kamica moczowa",
+      "2": "częste oddawanie moczu, dieta wysokosodowa",
+      "3": "ciąża, zaburzenia metaboliczne",
+      "4": "odpowiedz a i c jest prawidłowa"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 146,
+    "pytanie": "U chorych dializowanych szczególna uwagę zwracamy na:",
+    "odpowiedzi": {
+      "1": "monitorowanie podaży wody i elektrolitów",
+      "2": "uzupełnianie podaży białka",
+      "3": "stosowanie diety niskobiałkowej",
+      "4": "odpowiedz a i b jest prawidłowa"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 147,
+    "pytanie": "W intensywnej insulinoterapii przy obliczaniu dawki insuliny okołoposiłkowej trzeba wziąć pod uwagę:",
+    "odpowiedzi": {
+      "1": "poziom glikemii przed posiłkiem",
+      "2": "ilość wymienników węglowodanowych na dany posiłek",
+      "3": "a+b i planowany wysiłek fizyczny",
+      "4": "stosunek procentowy tłuszczów do białka"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 148,
+    "pytanie": "Insulinę krótkodziałającą podawaną okołoposiłkowo zaleca się podawać: 19",
+    "odpowiedzi": {
+      "1": "w udo",
+      "2": "w brzuch",
+      "3": "w ramię",
+      "4": "miejsce nie ma większego znaczenia"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 149,
+    "pytanie": "Przyczyną hipoglikemii nie jest:",
+    "odpowiedzi": {
+      "1": "przedawkowanie insuliny",
+      "2": "zbyt duży wysiłek fizyczny",
+      "3": "za mała dawka insuliny",
+      "4": "nie spożycie posiłku po podaniu insuliny"
+    },
+    "poprawna": 3
+  },
+  {
+    "numer": 150,
+    "pytanie": "Glikemia przed posiłkiem u pacjenta leczonego metodą intensywnej czynnościowej insulinoterapii wynosiła 220mg% po wyliczeniu i podaniu dawki insuliny pacjent:",
+    "odpowiedzi": {
+      "1": "po ½ godz. może zjeść posiłek",
+      "2": "odczekuje 1godz i po kontroli glikemii gdy ta spadła do 200mg% spożywa posiłek",
+      "3": "czas oczekiwania na spożycie posiłku jest zależny od poziomu glukozy chory może zjeść posiłek w momencie gdy spada poniżej180mg%",
+      "4": "po 15’ pacjent może zjeść posiłek"
+    },
+    "poprawna": 3
+  },
+  {
+    "numer": 151,
+    "pytanie": "W żywieniu chorego na cukrzycę zaleca się stosowanie węglowodanów:",
+    "odpowiedzi": {
+      "1": "prostych i złożonych",
+      "2": "indeksie glikemicznym większym niż 50%",
+      "3": "indeksie glikemicznym mniejszym niż 50%",
+      "4": "tylko węglowodanów prostych"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 152,
+    "pytanie": "Z diety chorego na cukrzycę typu 2 należy wykluczyć:",
+    "odpowiedzi": {
+      "1": "węglowodany",
+      "2": "mięsa chude i białe",
+      "3": "tłuszcze roślinne",
+      "4": "cukry proste"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 153,
+    "pytanie": "Wskaż podstawowa zasadę w redukowaniu masy ciała u osoby otyłej z cukrzycą typu 2:",
+    "odpowiedzi": {
+      "1": "redukcja masy ciała 1kg na tydzień",
+      "2": "redukcja około 10% z dotychczasowej masy ciała w przeciągu roku",
+      "3": "redukcja masy ciała do masy należnej w jak najkrótszym czasie",
+      "4": "masa ciała nie ma istotnego wpływu na wyrównanie cukrzycy"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 154,
+    "pytanie": "Insulinę o przedłużonym działaniu zaleca się wstrzykiwać:",
+    "odpowiedzi": {
+      "1": "w udo",
+      "2": "w pośladek",
+      "3": "w ramię",
+      "4": "w brzuch"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 155,
+    "pytanie": "Jeden wymiennik węglowodanowy to:",
+    "odpowiedzi": {
+      "1": "10g węglowodanów przyswajalnych w 100g danego produktu",
+      "2": "zastąpienie węglowodanów złożonych przez 10g węglowodanów prostych",
+      "3": "taka ilość danego produktu w której zawiera się 10g węglowodanów przyswajalnych",
+      "4": "zastąpienie produktu tłuszczowego produktem węglowodanowym"
+    },
+    "poprawna": 3
+  },
+  {
+    "numer": 156,
+    "pytanie": "Dodatkowego oznaczenia glukozy u chorego na cukrzycę należy wykonać gdy:",
+    "odpowiedzi": {
+      "1": "pacjent gorączkuje 20",
+      "2": "przy podejrzeniu o hipoglikemię",
+      "3": "pacjent ma nudności i wymioty",
+      "4": "wszystkie odpowiedzi są prawidłowe"
+    },
+    "poprawna": 2
+  },
+  {
+    "numer": 157,
+    "pytanie": "Dla śpiączki hipoglikemicznej charakterystyczne jest:",
+    "odpowiedzi": {
+      "1": "powolne występowanie objawów, zapach acetonu z ust",
+      "2": "skóra sucha, oddech przyśpieszony, źrenice wąskie, wielomocz",
+      "3": "brak ustąpienia objawów po dożylnym podaniu glukozy",
+      "4": "nagłe wystąpienie objawów, skóra zlana potem, wzmożone napięcie mięśniowe, źrenice szerokie"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 158,
+    "pytanie": "W pielęgnowaniu pacjenta niekontrolowaną glikozurią należy:",
+    "odpowiedzi": {
+      "1": "prowadzić bilans płynów i kontrolę elektrolitów",
+      "2": "stosować nasiadówki z nadmanganianu potasu",
+      "3": "prowadzić dobową zbiórkę moczu na mikroalbuminurię",
+      "4": "ograniczyć podaż płynów"
+    },
+    "poprawna": 1
+  },
+  {
+    "numer": 159,
+    "pytanie": "Chory na cukrzycę uczestniczył w uroczystości rodzinnej i wypił sporą ilość czystego alkoholu. Następnego dnia wystąpiła hipoglikemia i stan przedśpiączkowy. Co należy zrobić w tej sytuacji:",
+    "odpowiedzi": {
+      "1": "podać 2 wymienniki węglowodanowe",
+      "2": "podać glukagon w iniekcji podskórnej, i.m lub i.v",
+      "3": "podać dożylnie glukozę 40%",
+      "4": "podłączyć kroplowywlew z 5%glukozy z insuliną krótkodziałającą"
+    },
+    "poprawna": 3
+  },
+  {
+    "numer": 160,
+    "pytanie": "W profilaktyce stopy cukrzycowej pielęgnując pacjenta należy:",
+    "odpowiedzi": {
+      "1": "oglądać codziennie stopy",
+      "2": "sprawdzać czucie dotyku, zimna, ciepła, bólu i ucisku",
+      "3": "stosować kremy lub maści obojętne za wyjątkiem przestrzeni między palcami",
+      "4": "wszystkie odpowiedzi są prawidłowe"
+    },
+    "poprawna": 4
+  },
+  {
+    "numer": 161,
+    "pytanie": "Jak wizualnie można rozpoznać rodzaj insuliny:",
+    "odpowiedzi": {
+      "1": "krótko działająca jest zawiesiną",
+      "2": "krótko działająca jest klarowna",
+      "3": "długo działająca jest zawiesiną",
+      "4": "prawidłowa odpowiedź b i c"
+    },
+    "poprawna": 4
+  },
+  {
+    "numer": 162,
+    "pytanie": "Przy złej pielęgnacji pacjenta z niekontrolowaną glikozurią można spowodować:",
+    "odpowiedzi": {
+      "1": "zatrzymanie jonów sodowych i potasowych",
+      "2": "przewodnienia organizmu",
+      "3": "zapalenia pochwy, przedsionka pochwy i żołędzi",
+      "4": "zaburzenia funkcji seksualnych"
+    },
+    "poprawna": 3
+  },
+  {
+    "numer": 163,
+    "pytanie": "Gdy po obliczeniu i podaniu należnej dawki insuliny pacjent zjada posiłek, po czym wypada mu niezaplanowany wysiłek fizyczny to:",
+    "odpowiedzi": {
+      "1": "należy zjeść dwa wymienniki węglowodanowe",
+      "2": "podać dodatkowo 2j. insuliny krótkodziałającej",
+      "3": "a+b gdy wysiłek nie będzie trwał dłużej niż 15’",
+      "4": "nie należy korygować dawki insuliny"
+    },
+    "poprawna": 1
+  },
+  {
+    "numer": 164,
+    "pytanie": "Dla kontroli eutyrozy postępowanie pielęgniarskie polega na:",
+    "odpowiedzi": {
+      "1": "pomiar tętna w czasie snu",
+      "2": "codzienna kontrola masy ciała 21",
+      "3": "pomiar oddechu , RR , temperatury",
+      "4": "wszystkie odpowiedzi są prawidłowe"
+    },
+    "poprawna": 4
+  },
+  {
+    "numer": 165,
+    "pytanie": "Do typowych objawów nadczynności tarczycy nie należy:",
+    "odpowiedzi": {
+      "1": "bradykardia",
+      "2": "przyśpieszona podstawowa przemiana materii",
+      "3": "utrata masy ciała",
+      "4": "nadpobudliwość psycho-ruchowa"
+    },
+    "poprawna": 1
+  },
+  {
+    "numer": 166,
+    "pytanie": "W żywieniu chorego na cukrzycę węglowodany powinny w całkowitej dziennej podaży kalorii stanowić:",
+    "odpowiedzi": {
+      "1": "50-60%",
+      "2": "poniżej 50%",
+      "3": "60-70%",
+      "4": "powinny być wykluczone z diety"
+    },
+    "poprawna": [
+      1,
+      2
+    ]
+  },
+  {
+    "numer": 167,
+    "pytanie": "Pielęgnując pacjentów za schorzeniami narządu ruchu w okresie zaostrzeń, pamiętamy aby:",
+    "odpowiedzi": {
+      "1": "ograniczyć aktywność ruchową pacjenta i eliminować dolegliwości bólowe",
+      "2": "mobilizować do jak najszybszego wykonywania ćwiczeń fizycznych",
+      "3": "pomagać wyłącznie w poruszaniu się",
+      "4": "otoczyć opieką tylko pacjentów gorączkujących i mających podwyższone ciśnienie tętnicze"
+    },
+    "poprawna": 1
+  },
+  {
+    "numer": 168,
+    "pytanie": "Sprawując opiekę nad pacjentami ze schorzeniami reumatoidalnymi pielęgniarka powinna kontrolować:",
+    "odpowiedzi": {
+      "1": "tętno, ciśnienie, oddech, zabarwienie powłok skórnych",
+      "2": "podstawowe parametry, zakres ruchomości stawów, dawki leków",
+      "3": "wzrost, masę ciała, ruchomość stawów, dawki leków",
+      "4": "podstawowe parametry, wzrost, masę ciała"
+    },
+    "poprawna": 2
+  },
+  {
+    "numer": 169,
+    "pytanie": "Do czynników ryzyka choroby zwyrodnieniowej należą:",
+    "odpowiedzi": {
+      "1": "otyłość, wiek, przebyte urazy",
+      "2": "choroby serca i układu krążenia, praca fizyczna z obciążeniem stawów,",
+      "3": "urazy stawów",
+      "4": "nieprawidłowa budowa stawów, praca fizyczna z obciążeniem stawów e. odpowiedź prawidłowa A i C"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 170,
+    "pytanie": "Leczenie z wykorzystaniem metod fizykoterapeutycznych w chorobach narządu ruchu służy do:",
+    "odpowiedzi": {
+      "1": "zmniejszania natężenia bólu",
+      "2": "obniżenia patologicznego napięcia mięśniowego i zwalczania stanów zapalnych",
+      "3": "zwalczania stanów zapalnych, przywrócenia pełnej sprawności ruchowej w stawach oraz pełnej wydolności oddechowej",
+      "4": "odpowiedź prawidłowa A i B"
+    },
+    "poprawna": 4
+  },
+  {
+    "numer": 171,
+    "pytanie": "W zapobieganiu przykurczom w chorobach narządu ruchu duże znaczenie ma:",
+    "odpowiedzi": {
+      "1": "sprawdzenie zakresu ruchu w stawach kolanowych i skokowych, obserwacja ułożenia kończyn w łóżku, codzienne ćwiczenia obejmujące pełen zakres ruchów",
+      "2": "sposób siadania na łóżku, ubierania się, zaspakajania potrzeb fizjologicznych oraz ustawianie pionowe chorego 22",
+      "3": "obserwacja ułożenia kończyn w czasie stawania na nogi, sposób trzymania łyżki i podnoszenia jej do ust, sposób wydalania",
+      "4": "żadna z odpowiedzi nie jest prawidłowa"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 172,
+    "pytanie": "NLPZ ( niesteroidowe środki przeciwzapalne) stosowane w chorobach reumatycznych powinny być podawane:",
+    "odpowiedzi": {
+      "1": "0,5 h przed jedzeniem",
+      "2": "w trakcie jedzenia o określonej porze",
+      "3": "po jedzeniu, gdy żołądek jest wypełniony pokarmem, co zmniejsza ich drażniący wpływ na błonę śluzową",
+      "4": "żadna z odpowiedzi nie jest prawidłowa"
+    },
+    "poprawna": 3
+  },
+  {
+    "numer": 173,
+    "pytanie": "Dieta w dnawym zapaleniu stawów (DNA moczanowa) powinna być:",
+    "odpowiedzi": {
+      "1": "ubogopurynowa z wykluczeniem wątroby, mięsa, roślin strączkowych, czekolady, kakao, kawy i mocnej herbaty",
+      "2": "oszczędzająca z ograniczeniem substancji hamujących wydzielanie soku żołądkowego tj: masło, śmietana, potrawy zbożowe, ryż",
+      "3": "powinna zapobiegać odkładaniu się moczanów w tkankach i przerywać ostre napady bólowe",
+      "4": "odpowiedź prawidłowa A i C"
+    },
+    "poprawna": 4
+  },
+  {
+    "numer": 174,
+    "pytanie": "Nakłucie stawu wykonujemy w celu:",
+    "odpowiedzi": {
+      "1": "uzyskania materiału do badania",
+      "2": "usunięcia znajdującego się w nim płynu i płukania",
+      "3": "podania leku",
+      "4": "wszystkie odpowiedzi są prawidłowe"
+    },
+    "poprawna": 4
+  },
+  {
+    "numer": 175,
+    "pytanie": "Zmniejszenie bólu w chorobach reumatycznych można osiągnąć poprzez:",
+    "odpowiedzi": {
+      "1": "podawanie leków przeciwbólowych, położenie do łóżka i ograniczenie ruchomości w ostrej fazie choroby",
+      "2": "podawanie leków przeciwzapalnych, antybiotyków i stosowanie okładów parafinowych",
+      "3": "wykonywanie suchych, ciepłych okładów",
+      "4": "prawidłowa odpowiedź A i C"
+    },
+    "poprawna": 4
+  },
+  {
+    "numer": 176,
+    "pytanie": "Zmniejszenie bólu w schorzeniach narządu ruchu można osiągnąć poprzez zapewnienie choremu wygodnego i prawidłowo przygotowanego łóżka. W chorobach stawów łóżko powinno być:",
+    "odpowiedzi": {
+      "1": "łóżko twarde, nie zapadające się",
+      "2": "łóżko miękkie",
+      "3": "łóżko wodne",
+      "4": "żadna z odpowiedzi nie jest prawidłowa"
+    },
+    "poprawna": 1
+  },
+  {
+    "numer": 177,
+    "pytanie": "Z zapobieganiu stanom niedoboru żelaza dużą rolę odgrywa:",
+    "odpowiedzi": {
+      "1": "dieta ograniczająca tłuszcze, z dużą zawartością białka roślinnego oraz stosowanie preparatów zawierających żelazo",
+      "2": "dieta bogata w żelazo, okresowo (zwłaszcza u dzieci i młodzieży w okresie dorastania, kobiet ciężarnych i karmiących)",
+      "3": "stosowanie preparatów zawierających dobrze przyswajane w przewodzie pokarmowym żelazo",
+      "4": "odpowiedź prawidłowa B i C"
+    },
+    "poprawna": 4
+  },
+  {
+    "numer": 178,
+    "pytanie": "Podawanie pozajelitowe żelaza uzasadnione jest w następujących przypadkach: 23",
+    "odpowiedzi": {
+      "1": "u pacjentów z niedoborami białkowymi ,wymagającymi uzyskania szybkiej poprawy np. w celu przygotowania do zabiegu operacyjnego",
+      "2": "u pacjentów nie tolerujących preparatów doustnych, z upośledzonym wchłanianiem żelaza z przewodu pokarmowego",
+      "3": "przy znacznym niedoborze żelaza stwierdzanym w przypadku choroby wrzodowej żołądka i dwunastnicy",
+      "4": "żadna z odpowiedzi nie jest prawidłowa"
+    },
+    "poprawna": 2
+  },
+  {
+    "numer": 179,
+    "pytanie": "Przyczyną niedoboru żelaza jest:",
+    "odpowiedzi": {
+      "1": "przewlekłe krwawienie, zwiększone zużycie np. w czasie ciąży",
+      "2": "niedobór kwasu solnego w żołądku oraz niedobór witaminy C w pożywieniu",
+      "3": "dieta uboga w ten pierwiastek",
+      "4": "wszystkie odpowiedzi są prawidłowe"
+    },
+    "poprawna": 4
+  },
+  {
+    "numer": 180,
+    "pytanie": "Które badania mają zastosowanie w diagnostyce niedokrwistości:",
+    "odpowiedzi": {
+      "1": "poziom hemoglobiny, morfologia, OB",
+      "2": "badanie kału na obecność krwi utajonej + morfologia",
+      "3": "poziom hemoglobiny, morfologia z rozmazem, poziom elektrolitów, zawartość żelaza w surowicy krwi",
+      "4": "żadna z odpowiedzi nie jest prawidłowa"
+    },
+    "poprawna": 3
+  },
+  {
+    "numer": 181,
+    "pytanie": "Przyczyną niedokrwistości z niedoboru witaminy B 12 jest:",
+    "odpowiedzi": {
+      "1": "długotrwała dieta wegetariańska, alkoholizm",
+      "2": "długotrwała dieta niskotłuszczowa, niedobory pokarmowe ubogie w witaminę B 12",
+      "3": "żywienie się konserwami, mlekiem kozim",
+      "4": "odpowiedź prawidłowa A i C"
+    },
+    "poprawna": 1
+  },
+  {
+    "numer": 182,
+    "pytanie": "Krwi nie można przetaczać jeżeli:",
+    "odpowiedzi": {
+      "1": "istnieje niezgodność grupowa, opakowanie jest uszkodzone, nie została wykonana próba krzyżowa",
+      "2": "nie wykonano próby biologicznej, brak jest nazwiska dawcy na opakowaniu, makroskopowo stwierdza się hemolizę krwi",
+      "3": "odpowiedź prawidłowa A i B",
+      "4": "żadna z odpowiedzi nie jest prawidłowa"
+    },
+    "poprawna": 1
+  },
+  {
+    "numer": 183,
+    "pytanie": "Przed podłączeniem/ przetoczeniem krwi pielęgniarka powinna wykonać następujące czynności:",
+    "odpowiedzi": {
+      "1": "sprawdzić dokumentację, wynik próby krzyżowej , wygląd zewnętrzny krwi, stan zamknięcia opakowania, zmierzyć podstawowe parametry",
+      "2": "zmierzyć temperaturę, założyć wkłucie, wykonać próbę biologiczną w obecności lekarza",
+      "3": "sprawdzić dokumentację, ocenić ogólny stan chorego, wykonać EKG i próbę biologiczną",
+      "4": "odpowiedź prawidłowa A i B"
+    },
+    "poprawna": 4
+  },
+  {
+    "numer": 184,
+    "pytanie": "Przygotowanie psychiczne pacjenta do wykonania nakłucia szpiku kostnego nie polega na:",
+    "odpowiedzi": {
+      "1": "wyjaśnieniu celu badania, poinformowaniu o sposobie znieczulenia, opisie przebiegu badania",
+      "2": "wytłumaczeniu konieczności współpracy podczas badania, kontroli podstawowych parametrów, przygotowaniu miejsca nakłucia",
+      "3": "zmniejszeniu niepokoju i lęku przed badaniem",
+      "4": "żadna z odpowiedzi nie jest prawidłowa 24"
+    },
+    "poprawna": 4
+  },
+  {
+    "numer": 185,
+    "pytanie": "Sprawując opiekę nad pacjentem po wykonaniu nakłucia szpiku kostnego pielęgniarka powinna zwrócić szczególną uwagę na:",
+    "odpowiedzi": {
+      "1": "ogólne samopoczucie pacjenta",
+      "2": "opatrunek założony na miejsce wkłucia",
+      "3": "podstawowe parametry",
+      "4": "wszystkie odpowiedzi są prawidłowe"
+    },
+    "poprawna": 4
+  },
+  {
+    "numer": 186,
+    "pytanie": "Wykonanie próby biologicznej polega na:",
+    "odpowiedzi": {
+      "1": "podłączeniu krwi, szybkim przetoczeniu 15 - 20ml krwi i obserwacji pacjenta podczas przetaczania",
+      "2": "zmierzeniu ciśnienia tętniczego krwi i temperatury przed przetoczeniem preparatu",
+      "3": "zbadaniu zgodności grupowej krwi dawcy i biorcy",
+      "4": "żadna z powyższych odpowiedzi nie jest prawidłowa"
+    },
+    "poprawna": 1
+  },
+  {
+    "numer": 187,
+    "pytanie": "Podstawowymi czynnościami płuc są:",
+    "odpowiedzi": {
+      "1": "utlenowanie krwi przez pobór O2 z pęcherzyków płucnych",
+      "2": "wydalenie CO2 i związana z tym regulacja gospodarki kwasowo- zasadowej",
+      "3": "zaopatrzenie organizmu w O2 i wydalenie z niego produktów przemiany materii",
+      "4": "prawidłowe są odpowiedzi a i b"
+    },
+    "poprawna": 4
+  },
+  {
+    "numer": 188,
+    "pytanie": "Charakterystycznymi objawami ostrej niewydolności oddechowej są:",
+    "odpowiedzi": {
+      "1": "duszność, bóle w klatce piersiowej, drętwienie kończyny górnej lewej",
+      "2": "duszność, przyspieszenie i spłycenie oddychania, przyspieszenie czynności serca, sinica powłok",
+      "3": "ból w klatce piersiowej, kaszel z odkrztuszaniem różowej wydzieliny, podwyższone ciśnienie krwi",
+      "4": "wszystkie odpowiedzi są prawidłowe"
+    },
+    "poprawna": 2
+  },
+  {
+    "numer": 189,
+    "pytanie": "Astma oskrzelowa to:",
+    "odpowiedzi": {
+      "1": "rozdęcie tkanki płucnej z nieodwracalnym uszkodzeniem pęcherzyków",
+      "2": "zapalenie błony śluzowej oskrzeli",
+      "3": "napadowo występujące zwężenie(obstrukcja) oskrzeli z dusznością",
+      "4": "zagęszczenie tkanki płucnej wywołane nadmiernym rozplemem tkanki łącznej"
+    },
+    "poprawna": 3
+  },
+  {
+    "numer": 190,
+    "pytanie": "Kiedy najczęściej występują napady dychawicy oskrzelowej:",
+    "odpowiedzi": {
+      "1": "w nocy",
+      "2": "rano",
+      "3": "wieczorem",
+      "4": "popołudniu"
+    },
+    "poprawna": 1
+  },
+  {
+    "numer": 191,
+    "pytanie": "Zapalenie wywołane przez różne czynniki i obejmujące oskrzela, pęcherzyki płucne, lub tkankę śródmiąższową jest charakterystyczne dla:",
+    "odpowiedzi": {
+      "1": "zapalenia opłucnej",
+      "2": "roztrzeni oskrzeli",
+      "3": "zapalenia płuc",
+      "4": "astmy oskrzelowej"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 192,
+    "pytanie": "W rozstrzeni oskrzeli drenujemy segmenty podstawowe obu płatów dolnych w:",
+    "odpowiedzi": {
+      "1": "ułożeniu na boku lewym, głowa lekko skierowana w dół, nachylenie tułowia do podłoża wynosi 30o",
+      "2": "ułożeniu na plecach, nachylenie bioder do przodu pod katem 30o (koc pod biodra) 25",
+      "3": "ułożenie na brzuchu , nachylenie w stosunku do podłoża wynosi 45o",
+      "4": "ułożenie na boku prawym z lekką rotacją tułowia do tyłu, kąt nachylenia 30o"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 193,
+    "pytanie": "Najczęstszą przyczyną przewlekłej niewydolności oddechowej jest:",
+    "odpowiedzi": {
+      "1": "astma",
+      "2": "przewlekła obturacyjna choroba płuc(POChP)",
+      "3": "gruźlica",
+      "4": "zespół ostrej niewydolności oddechowej(ARDS)"
+    },
+    "poprawna": 2
+  },
+  {
+    "numer": 194,
+    "pytanie": "Po jakim czasie od wykonania próby tuberkulinowej odczytujesz wynik:",
+    "odpowiedzi": {
+      "1": "po 48 godz",
+      "2": "po 72 godz",
+      "3": "po 24 godz",
+      "4": "po 12 godz"
+    },
+    "poprawna": 2
+  },
+  {
+    "numer": 195,
+    "pytanie": "Zespół ostrej niewydolności oddechowej(ARDS) może być skutkiem:",
+    "odpowiedzi": {
+      "1": "zapalenia płuc",
+      "2": "zmiażdżenia tkanek",
+      "3": "sepsy",
+      "4": "wszystkich wymienionych"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 196,
+    "pytanie": "Badaniem potwierdzającym rozpoznanie przewlekłej obturacyjnej choroby płuc jest:",
+    "odpowiedzi": {
+      "1": "RTG klatki piersiowej",
+      "2": "bronchoskopia",
+      "3": "spirometria",
+      "4": "TK płuc"
+    },
+    "poprawna": 3
+  },
+  {
+    "numer": 197,
+    "pytanie": "Płyn w jamie opłucnej rozpoznajemy na podstawie:",
+    "odpowiedzi": {
+      "1": "badania przedmiotowego, radiologicznego i USG",
+      "2": "bronchografii",
+      "3": "spirometrii",
+      "4": "bronchoskopii"
+    },
+    "poprawna": 1
+  },
+  {
+    "numer": 198,
+    "pytanie": "Przyczyną ostrego zapalenia oskrzeli są najczęściej:",
+    "odpowiedzi": {
+      "1": "bakterie",
+      "2": "wirusy grypy",
+      "3": "alergeny",
+      "4": "palenie tytoniu i wpływ czynników środowiskowych"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 199,
+    "pytanie": "Palenie od wielu lat papierosów jest częstą przyczyną:",
+    "odpowiedzi": {
+      "1": "przewlekłej obturacyjnej choroby płuc",
+      "2": "astmy oskrzelowej",
+      "3": "zapalenia płuc",
+      "4": "ostrego zapalenia oskrzeli"
+    },
+    "poprawna": 1
+  },
+  {
+    "numer": 200,
+    "pytanie": "Stosowanie opioidowych leków przeciwbólowych jest przeciwskazane w:",
+    "odpowiedzi": {
+      "1": "zawale mięśnia sercowego",
+      "2": "przewlekłej obturacyjnej chorobie płuc(POChP)",
+      "3": "raku płuc",
+      "4": "guzach mózgu"
+    },
+    "poprawna": 2
+  },
+  {
+    "numer": 201,
+    "pytanie": "Oklepywanie chorego w przewlekłej obturacyjnej chorobie płuc jest szczególnie skuteczne: 26",
+    "odpowiedzi": {
+      "1": "po przebudzeniu chorego",
+      "2": "w godzinach południowych",
+      "3": "po podaniu leków przeciwkaszlowych",
+      "4": "po podaniu antybiotyków"
+    },
+    "poprawna": 1
+  },
+  {
+    "numer": 202,
+    "pytanie": "Inhalacje wykonujemy:",
+    "odpowiedzi": {
+      "1": "przed posiłkiem",
+      "2": "po posiłku 30 minut",
+      "3": "zawsze w pozycji siedzącej",
+      "4": "wszystkie odpowiedzi są prawidłowe"
+    },
+    "poprawna": 4
+  },
+  {
+    "numer": 203,
+    "pytanie": "Leki mukolityczne podajemy:",
+    "odpowiedzi": {
+      "1": "przed snem",
+      "2": "razem z obfitym nawodnieniem chorego w przypadku kaszlu wilgotnego",
+      "3": "razem z obfitym nawodnieniem chorego w przypadku kaszlu suchego",
+      "4": "w przypadku dolegliwości bólowych"
+    },
+    "poprawna": 2
+  },
+  {
+    "numer": 204,
+    "pytanie": "Nakłucie opłucnej wykonujemy gdy:",
+    "odpowiedzi": {
+      "1": "opóźnia się proces wchłaniania płynu",
+      "2": "występuje duża jego ilość w opłucnej",
+      "3": "występują trudności diagnostyczne",
+      "4": "wszystkie odpowiedzi są prawidłowe"
+    },
+    "poprawna": 4
+  },
+  {
+    "numer": 205,
+    "pytanie": "Odma urazowa powstaje:",
+    "odpowiedzi": {
+      "1": "po punkcji lub przeskórnej biopsji opłucnej",
+      "2": "w następstwie urazów klatki piersiowej i złamań szkieletu kostnego",
+      "3": "wskutek pęknięcia obwodowo położonego pęcheża rozedmowego",
+      "4": "jako powikłanie w obturacyjnym zaaleniu płuc"
+    },
+    "poprawna": 2
+  },
+  {
+    "numer": 206,
+    "pytanie": "Najczęściej badanym materiałem bakteriologicznym podczas rozpoznania gruźlicy jest:",
+    "odpowiedzi": {
+      "1": "plwocina",
+      "2": "materiał pobrany podczas bronchoskopii",
+      "3": "krew",
+      "4": "prawidłowe są odpowiedzi a i b"
+    },
+    "poprawna": 4
+  },
+  {
+    "numer": 207,
+    "pytanie": "Skrót HCV oznacza :",
+    "odpowiedzi": {
+      "1": "nietolerancję pokarmową",
+      "2": "chorobę weneryczną",
+      "3": "chorobę zapalną wątroby na tle wirusowym",
+      "4": "schorzenia dróg żółciowych"
+    },
+    "poprawna": 3
+  },
+  {
+    "numer": 208,
+    "pytanie": "Jaką dietę zastosujesz u pacjentów z niewydolnością niewyrównaną wątroby:",
+    "odpowiedzi": {
+      "1": "wysokobiałkową",
+      "2": "niskotłuszczową, bogatosodową",
+      "3": "ziemniaczaną, wysokobiałkową",
+      "4": "niskobiałkową, wysokowęglowodanową, niskotłuszczową"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 209,
+    "pytanie": "Jakiemu typowi wirusowego zapalenia wątroby możesz zapobiec stosując szczepienia ochronne?",
+    "odpowiedzi": {
+      "1": "wirusowemu zapaleniu wątroby typu C",
+      "2": "wirusowemu zapaleniu wątroby typu A,B,C",
+      "3": "wirusowemu zapaleniu wątroby typu A,B,D",
+      "4": "wirusowemu zapaleniu wątroby typu B,D,C 27"
+    },
+    "poprawna": 3
+  },
+  {
+    "numer": 210,
+    "pytanie": "Na jakie objawy powinna szczególnie zwracać uwagę pielęgniarka sprawująca opiekę nad pacjentem z marskością wątroby ?",
+    "odpowiedzi": {
+      "1": "stan świadomości, krwotok z żylaków przełyku, napady głodu",
+      "2": "zaburzenia świadomości, drętwienia kończyn, nadmierne pocenie",
+      "3": "uogólnione obrzęki , zażółcenie powłok skóry , wielomocz",
+      "4": "stan świadomości, wodobrzusze, krwawienia z żylaków przełyku, zaburzenia krzepnięcia."
+    },
+    "poprawna": 2
+  },
+  {
+    "numer": 211,
+    "pytanie": "Jaką dietę zastosujesz u pacjenta z kamicą pęcherzyka żółciowego leczonego zachowawczo?",
+    "odpowiedzi": {
+      "1": "wysokokaloryczną , wielowitaminową",
+      "2": "niskobiałkową",
+      "3": "niskotłuszczową, wysokobiałkową",
+      "4": "łatwo strawna, z ograniczeniem tłuszczów"
+    },
+    "poprawna": 4
+  },
+  {
+    "numer": 212,
+    "pytanie": "W diecie w okresie zaostrzeń w chorobie wrzodowej żołądka i dwunastnicy zastosujesz:",
+    "odpowiedzi": {
+      "1": "dietę ścisłą",
+      "2": "dietę wysokowęglowodanową i niskotłuszczową",
+      "3": "dietę niskobiałkową, wielowitaminową",
+      "4": "łatwo strawna z ograniczeniem produktów pobudzających wydzielanie soku żołądkowego."
+    },
+    "poprawna": 4
+  },
+  {
+    "numer": 213,
+    "pytanie": "Jakie produkty zalecisz osobą chorym na chorobę wrzodową żołądka i dwunastnicy w okresie remisji?",
+    "odpowiedzi": {
+      "1": "nabiał, surowe soki owocowo- warzywne, mięso smażone na smalcu",
+      "2": "gotowane mięso, warzywa kapustne surowe , duża ilość mleka",
+      "3": "pieczone mięso, gotowane warzywa, ciasto drożdżowe",
+      "4": "ograniczanie słodyczy, mięso tylko gotowane, rezygnacja z warzyw korzennych."
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 214,
+    "pytanie": "W edukacji pacjentów z chorobą wrzodową żołądka i dwunastnicy powinniśmy zwrócić uwagę na :",
+    "odpowiedzi": {
+      "1": "objawy świadczące o zaostrzeniu choroby np. silne dolegliwości bólowe w podbrzuszu, wymioty, spadek masy ciała",
+      "2": "eliminację z diety: cukrów prostych, produktów wędzonych, smażonych, napoi gazowanych.",
+      "3": "częste wykonywanie gastroskopii, wypijanie dużych ilości płynów niegazowanych",
+      "4": "stosowanie płynów gazowanych podczas posiłków, spożywanie gotowanego mięsa i gotowanych warzyw i owoców."
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 215,
+    "pytanie": "Z jakich produktów powinien zrezygnować pacjent z wrzodziejącym zapaleniem jelita grubego w okresie remisji?",
+    "odpowiedzi": {
+      "1": "tłuszcze, cukry proste, produkty zawierające błonnik",
+      "2": "surowe owoce, białko – zwłaszcza kefiry",
+      "3": "alkohol, mleko, ziemniaki",
+      "4": "mocna herbata, ryż, pieczywo pszenne."
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 216,
+    "pytanie": "W okresie zaostrzeń pacjent z wrzodziejącym zapaleniem jelita grubego powinien stosować dietę?",
+    "odpowiedzi": {
+      "1": "wysokowęglowodanową",
+      "2": "dietę płynną – syntetyczną dietę zbilansowaną/ bezresztkową/",
+      "3": "z ograniczeniem błonnika, cukrów prostych, aminokwasów 28",
+      "4": "z ograniczeniem białka, tłuszczy zwierzęcych, potasu."
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 217,
+    "pytanie": "W jakich produktach znajduje się większa ilość błonnika?",
+    "odpowiedzi": {
+      "1": "ziarna zbóż, warzywa strączkowe, podroby",
+      "2": "kalafior, marchew , kakao",
+      "3": "sałata, papryka, otręby zbożowe",
+      "4": "chleb pełnoziarnisty, ciastka biszkoptowe, jabłka, cytrusy"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 218,
+    "pytanie": "Dyspepsja",
+    "odpowiedzi": {
+      "1": "stały lub nawracający ból lub dyskomfort w nadbrzuszu .charakteryzujący się uczuciem pełności po posiłkach, nudnościami lub wzdęciami.",
+      "2": "nietolerancja pokarmowa",
+      "3": "czkawka w sytuacjach stresowych",
+      "4": "nudności i wymioty spowodowane ubocznym działaniem środków anestetycznych"
+    },
+    "poprawna": 1
+  },
+  {
+    "numer": 219,
+    "pytanie": "Zalecenia poza dietetyczne jakiego autora powinno stosować się podczas spożywania posiłków?",
+    "odpowiedzi": {
+      "1": "Atkinsona",
+      "2": "Kiersta",
+      "3": "Tatonia",
+      "4": "Kwaśniewskiego"
+    },
+    "poprawna": 2
+  },
+  {
+    "numer": 220,
+    "pytanie": "W przygotowaniu pacjenta do kolonoskopii powinniśmy pamiętać:",
+    "odpowiedzi": {
+      "1": "w przeddzień od godz. 14.00 pozostaje na czczo , w dniu badania wlew przeczyszczający.",
+      "2": "w przeddzień podanie środka oczyszczającego np. X- prep., dieta półpłynna",
+      "3": "przez dwa dni poprzedzające badanie dieta płynna, w dniu badania wlew",
+      "4": "w przeddzień podanie środka oczyszczającego np. X- Prep., Fortrans, od godz. 12.00 tylko płyny niegazowane"
+    },
+    "poprawna": 2
+  },
+  {
+    "numer": 221,
+    "pytanie": "Pielęgnując pacjentów z marskością wątroby z objawami nadciśnienia wrotnego staramy się zapobiec problemom pielęgnacyjnym potencjalnym. Obserwując pacjenta zwrócisz uwagę przede wszystkim na:",
+    "odpowiedzi": {
+      "1": "częste oddawanie moczu",
+      "2": "krwawienia z przewodu pokarmowego",
+      "3": "duszność spowodowaną skurczem oskrzeli",
+      "4": "ślinotok"
+    },
+    "poprawna": 2
+  },
+  {
+    "numer": 222,
+    "pytanie": "U pacjentów wymiotujących , przede wszystkim będziesz dążyła do:",
+    "odpowiedzi": {
+      "1": "higieny jamy ustnej i odnotowywania wymiotów",
+      "2": "nawadniania organizmu",
+      "3": "uzupełniania niedoborów wody i elektrolitów",
+      "4": "prowadzenia dobowej zbiórki moczu"
+    },
+    "poprawna": 3
+  },
+  {
+    "numer": 223,
+    "pytanie": "U pacjentów z zespołem jelita drażliwego przeprowadzając edukację zwrócisz uwagę na:",
+    "odpowiedzi": {
+      "1": "ograniczanie aktywności ruchowej",
+      "2": "eliminację napojów słodzonych",
+      "3": "wypracowanie technik odreagowywania stresu",
+      "4": "systematyczne wykonywanie wlewu kontrastowego/ 2x w roku/"
+    },
+    "poprawna": 3
+  },
+  {
+    "numer": 224,
+    "pytanie": "Pacjentom z chorobą wrzodową żołądka podczas edukacji zwrócisz uwagę na negatywny wpływ oddziaływania na błonę śluzową żołądka: 29",
+    "odpowiedzi": {
+      "1": "jedzenia gotowanych warzyw",
+      "2": "stosowania leków niesteroidowych przeciwzapalnych",
+      "3": "częstego jedzenia jogurtów",
+      "4": "jedzenia białego ryżu i kasz"
+    },
+    "poprawna": 2
+  },
+  {
+    "numer": 225,
+    "pytanie": "U pacjentów z chorobą wrzodową żołądka i dwunastnicy zapobiegamy problemom potencjalnym wynikającym z:",
+    "odpowiedzi": {
+      "1": "zaprzestania palenia papierosów",
+      "2": "otyłości",
+      "3": "krwawienia z przewodu pokarmowego",
+      "4": "stosowania zalecanej diety"
+    },
+    "poprawna": 3
+  },
+  {
+    "numer": 226,
+    "pytanie": "Najprostszym i nie obciążającym testem dla pacjentów wykrywającym zakażenie bakterią Helicobacter pylori jest:",
+    "odpowiedzi": {
+      "1": "test mocznikowy z użyciem węgla 13C lub 14C",
+      "2": "testy serologiczne",
+      "3": "badanie histopatologiczne",
+      "4": "test urazowy"
+    },
+    "poprawna": 1
+  },
+  {
+    "numer": 227,
+    "pytanie": "Po wykonaniu koronarografii:",
+    "odpowiedzi": {
+      "1": "pielęgniarka przypomina choremu o konieczności pozostania w łóżku przez 24 godziny z wyprostowaną kończyną,",
+      "2": "chory może zginać kończynę w stawie kolanowym,",
+      "3": "pacjent może udać się do toalety na wózku siedzącym,",
+      "4": "chory może chodzić."
+    },
+    "poprawna": 1
+  },
+  {
+    "numer": 228,
+    "pytanie": "Podczas przyjęcia chorego z niepowikłanym zawałem mięśnia sercowego na oddział intensywnej terapii pielęgniarka:",
+    "odpowiedzi": {
+      "1": "ocenia stan chorego, występowanie bólu,",
+      "2": "układa chorego w pozycji siedzącej z opuszczonymi nogami,",
+      "3": "zakłada dwie kaniule obwodowe, podaje tlen, podłącza do kardiomonitora, wykonuje EKG,",
+      "4": "odpowiedź A,C."
+    },
+    "poprawna": 4
+  },
+  {
+    "numer": 229,
+    "pytanie": "Obserwacja chorego po zastosowanym leczeniu trombolitycznym dotyczy:",
+    "odpowiedzi": {
+      "1": "zabarwienia stolca i moczu,",
+      "2": "zabarwienia śluzówek,",
+      "3": "krwawieniA ze śluzówek, z miejsc wkłuć, krwioplucia,",
+      "4": "odpowiedź A,C."
+    },
+    "poprawna": 4
+  },
+  {
+    "numer": 230,
+    "pytanie": "Obserwacja pacjenta pod kątem wystąpienia powikłań po wykonaniu kardiowersji elektrycznej wymaga szczególnego zwrócenia uwagi na:",
+    "odpowiedzi": {
+      "1": "oddech oraz zachowanie się ciśnienia i tętna,",
+      "2": "intensywności pocenia się,",
+      "3": "obserwacji w kierunku powikłań takich jak: bezdech, hipowentylacja, zaburzenia rytmu serca,hipotonia",
+      "4": "odpowiedź prawidłowa A, C."
+    },
+    "poprawna": 4
+  },
+  {
+    "numer": 231,
+    "pytanie": "Plan opieki nad chorym z obrzękami kończyn dolnych z powodu przewlekłej niewydolności serca powinien obejmować działania mające na celu:",
+    "odpowiedzi": {
+      "1": "ochronę skóry przed wysuszeniem i uszkodzeniem oraz zakażeniem,",
+      "2": "zapewnieniu diety z ograniczeniem chlorku sodowego i wody,",
+      "3": "kontrolę masy ciała, prowadzenie bilansu płynów, 30",
+      "4": "wszystkie wyżej wymienione."
+    },
+    "poprawna": 4
+  },
+  {
+    "numer": 232,
+    "pytanie": "Ułatwienie oddychania, zmniejszenie duszności spowodowanej zmianami chorobowymi w układzie krążenia uzyskamy poprzez:",
+    "odpowiedzi": {
+      "1": "ułożenie pacjenta w pozycji wysokiej (Fowlera), lub półwysokiej (semi Fowlera),",
+      "2": "ułożenie chorego płasko,",
+      "3": "ułożenie chorego w pozycji wysokiej z opuszczonymi nogami,",
+      "4": "odpowiedź prawidłowa A, C."
+    },
+    "poprawna": 4
+  },
+  {
+    "numer": 233,
+    "pytanie": "U chorego który zasypia bez trudności w pozycji leżącej ale budzi się po 2-3 godzinach z dusznością:",
+    "odpowiedzi": {
+      "1": "występuje duszność pochodzenia oddechowego,",
+      "2": "występuje duszność ortopnoiczna,",
+      "3": "duszność ustąpi po zmianie pozycji na siedzącą,",
+      "4": "odpowiedź prawidłowa B i C."
+    },
+    "poprawna": 4
+  },
+  {
+    "numer": 234,
+    "pytanie": "Ból wieńcowy:",
+    "odpowiedzi": {
+      "1": "nie ustępuje po nitroglicerynie,",
+      "2": "ustępuje po spoczynku i lekach rozszerzających naczynia wieńcowe,",
+      "3": "trwa dłużej niż 20 minut, mimo podania nitrogliceryny,",
+      "4": "ma charakter kłujący."
+    },
+    "poprawna": 2
+  },
+  {
+    "numer": 235,
+    "pytanie": "Podczas stosowania leków rozszerzających naczynia do których należą azotany ( np.nitrogliceryna), należy obserwować:",
+    "odpowiedzi": {
+      "1": "występowanie sinicy dystalnych części ciała,",
+      "2": "ciśnienie tętnicze i częstość akcji serca,",
+      "3": "występowanie duszności,",
+      "4": "występowanie bólu wieńcowego."
+    },
+    "poprawna": 2
+  },
+  {
+    "numer": 236,
+    "pytanie": "Sprawując opiekę nad chorym z zawałem mięśnia sercowego w pierwszym dniu choroby, jeśli ustąpiły bóle, nie ma zaburzeń rytmu, niewydolności serca:",
+    "odpowiedzi": {
+      "1": "pielęgniarka wyręcza chorego we wszystkich czynnościach,",
+      "2": "zezwala choremu na samodzielne jedzenie,",
+      "3": "pacjent siedzi na łóżku ze spuszczonymi nogami,",
+      "4": "zezwala choremu na siadanie w łóżku."
+    },
+    "poprawna": 2
+  },
+  {
+    "numer": 237,
+    "pytanie": "Obserwacja i opieka nad chorym po koronarografii polega na:",
+    "odpowiedzi": {
+      "1": "kontroli opatrunku pod kątem krwawienia,",
+      "2": "ocenie stanu ukrwienia kończyny,",
+      "3": "ułożeniu kończyny pod kątem 40 stopni.",
+      "4": "odpowiedź A, B."
+    },
+    "poprawna": 4
+  },
+  {
+    "numer": 238,
+    "pytanie": "Edukacja pacjenta z przewlekłą niewydolnością serca, przyjmującego na stałe leki moczopędne, ma na celu przekazanie choremu zaleceń dotyczących:",
+    "odpowiedzi": {
+      "1": "spożywania dodatkowych ilości płynów,",
+      "2": "ograniczenia płynów do 1.5-2,0 l na dobę",
+      "3": "spożywanie pokarmów bogatych w potas,",
+      "4": "prawidłowa odpowiedź B,C."
+    },
+    "poprawna": 4
+  },
+  {
+    "numer": 239,
+    "pytanie": "Opieka pielęgniarska nad chorym leczonym czasową elektrostymulacją polega na:",
+    "odpowiedzi": {
+      "1": "asystowaniu przy wstawaniu z łóżka i chodzeniu,",
+      "2": "ocenie występowania zespołu QRS, po każdej iglicy impulsu stymulatora,",
+      "3": "nie ma koniecznosści kontrolowania stanu naładowania baterii stymulatora, 31",
+      "4": "wszystkie odpowiedzi są prawidłowe"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 240,
+    "pytanie": "Obniżenie ciśnienia krwi u chorych z nadciśnieniem tętniczym uzyskamy dzięki:",
+    "odpowiedzi": {
+      "1": "normalizacji masy ciała i systematycznej aktywności fizycznej,",
+      "2": "wypijaniu większej ilości niegazowanych wód mineralnych,",
+      "3": "ograniczeniu chlorku sodu w diecie,",
+      "4": "prawidłowa odpowiedź A i C"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 241,
+    "pytanie": "Nadciśnienie pierwotne:",
+    "odpowiedzi": {
+      "1": "jest spowodowane zwężeniem tętnicy nerkowej,",
+      "2": "występuje u większości chorych z nadciśnieniem a jego przyczyna nie jest do końca wyjaśniona,",
+      "3": "występuje gdy wartości ciśnienia przekraczają 130/85 mmHg,",
+      "4": "to nadciśnienie nie związane z nakładającymi się na siebie czynnikami środowiskowymi i dziedzicznymi."
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 242,
+    "pytanie": "Długotrwałe nadciśnienia tętnicze jest:",
+    "odpowiedzi": {
+      "1": "przyczyną niewydolności serca,",
+      "2": "czynnikiem ryzyka rozwoju miażdżycy,",
+      "3": "odpowiedź A i B,",
+      "4": "nadciśnieniem ciężkim."
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 243,
+    "pytanie": "Prewencja wtórna po zawale mięśnia sercowego polega na:",
+    "odpowiedzi": {
+      "1": "zapobieganiu zaburzeniom rytmu,",
+      "2": "normalizacji ciśnienia tętniczego, leczeniu hiperlipidemii,",
+      "3": "regularnym treningu fizycznym, ograniczeniu stresu,",
+      "4": "prawidłowa odpowiedź B i C."
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 244,
+    "pytanie": "Celem rehabilitacji kardiologicznej chorych po zawale serca jest:",
+    "odpowiedzi": {
+      "1": "uzyskanie poprawy wydolności wieńcowej, krążenia,",
+      "2": "poprawa ogólnej sprawności fizycznej,",
+      "3": "regularny, intensywny trening fizyczny,",
+      "4": "odpowiedź prawidłowa A i B"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 245,
+    "pytanie": "Model B rehabilitacji kardiologicznej dotyczy:",
+    "odpowiedzi": {
+      "1": "rehabilitacji chorych po koronarografii,",
+      "2": "rehabilitacji chorych z zawałem serca niepowikłanym,",
+      "3": "rehabilitacji chorych u których w ciągu 3-5 dni od ostrego incydentu wieńcowego stwierdza się ostrą niewydolność lewokomorową, zaburzenia rytmu,",
+      "4": "odpowiedź prawidłowa A,B."
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 246,
+    "pytanie": "Który z wymienionych składników nie jest sposobem gojenia się ran:",
+    "odpowiedzi": {
+      "1": "rychłozrost",
+      "2": "ziarninowanie",
+      "3": "pod strupem",
+      "4": "ropienie"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 247,
+    "pytanie": "Sonda Sengstakena – Blekemore’a służy do:",
+    "odpowiedzi": {
+      "1": "karmienia chorego",
+      "2": "tamowania krwotoków z żylaków przełyku i wpustu",
+      "3": "cewnikowania pęcherza moczowego",
+      "4": "wykonywania wlewów 32"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 248,
+    "pytanie": "Który z wymienionych cewników nie nadaje się do cewnikowania pęcherza moczowego:",
+    "odpowiedzi": {
+      "1": "Foleya",
+      "2": "Nelatona",
+      "3": "Redona",
+      "4": "Tiemana"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 249,
+    "pytanie": "Do zakażeń wirusowych nie należy:",
+    "odpowiedzi": {
+      "1": "HBV",
+      "2": "HCV",
+      "3": "Candida",
+      "4": "HIV"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 250,
+    "pytanie": "Posocznica należy do zakażeń:",
+    "odpowiedzi": {
+      "1": "bakteryjnych",
+      "2": "wirusowych",
+      "3": "grzybiczych",
+      "4": "pasożytniczych"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 251,
+    "pytanie": "Tężec jest wywołany zakażeniem:",
+    "odpowiedzi": {
+      "1": "laseczkami zgorzeli gazowej",
+      "2": "gronkowcem",
+      "3": "laseczkami tężca",
+      "4": "paciorkowcem"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 252,
+    "pytanie": "przyczyną niedożywienia szpitalnego nie jest:",
+    "odpowiedzi": {
+      "1": "zaburzenia łaknienia w czasie choroby",
+      "2": "żywienie pozajelitowe metodą jednego pojemnika",
+      "3": "zaburzenia trawienia i wchłaniania",
+      "4": "niesmaczna, źle zbilansowana i niskokaloryczna dieta szpitalna"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 253,
+    "pytanie": "Składnikiem żywienia pozajelitowego nie jest:",
+    "odpowiedzi": {
+      "1": "aminokwasy",
+      "2": "glukoza",
+      "3": "tłuszcze",
+      "4": "dieta trzustkowa"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 254,
+    "pytanie": "Wskazaniem do wykonania pourazowego TK głowy jest:",
+    "odpowiedzi": {
+      "1": "krwotok z nosa",
+      "2": "powierzchowna rana głowy",
+      "3": "uraz małżowiny usznej",
+      "4": "utrata przytomności"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 255,
+    "pytanie": "Utrata przytomności z okresem przejaśnienia i ponowną utratą przytomności (Intervallum Lucidum) jest charakterystyczna dla:",
+    "odpowiedzi": {
+      "1": "zranienia powłok czaszki",
+      "2": "złamania kości czaszki",
+      "3": "otwartego zranienia mózgu",
+      "4": "krwiaka wewnątrzczaszkowego"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 256,
+    "pytanie": "Późnym następstwem obrażeń czaszkowo-mózgowych nie jest:",
+    "odpowiedzi": {
+      "1": "katar sienny 33",
+      "2": "ropień mózgu",
+      "3": "wodogłowie",
+      "4": "padaczka pourazowa"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 257,
+    "pytanie": "Wiotka klatka piersiowa jest charakterystyczna dla:",
+    "odpowiedzi": {
+      "1": "złamania kilku sąsiednich żeber w dwóch miejscach lub obustronnie przymostkowo („okno”)",
+      "2": "złamania mostka",
+      "3": "złamania obojczyka",
+      "4": "złamania łopatki"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 258,
+    "pytanie": "Bezpośrednim zagrożeniem życia jest:",
+    "odpowiedzi": {
+      "1": "odma zamknięta",
+      "2": "odma otwarta",
+      "3": "płyn w opłucnej",
+      "4": "odma podskórna"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 259,
+    "pytanie": "„Mokre płuco” jest określeniem charakterystycznym dla:",
+    "odpowiedzi": {
+      "1": "zapalenia płuc",
+      "2": "stłuczenia płuca",
+      "3": "krwiaka opłucnej",
+      "4": "ropniaka opłucnej"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 260,
+    "pytanie": "„Złamanie zielonej gałązki” – u dzieci jest charakterystyczne dla złamania",
+    "odpowiedzi": {
+      "1": "poprzecznego",
+      "2": "wieloodłamowego",
+      "3": "podokostnowego",
+      "4": "otwartego"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 261,
+    "pytanie": "Do powikłań późnych złamania kości należy:",
+    "odpowiedzi": {
+      "1": "wstrząs",
+      "2": "zatorowość płuc",
+      "3": "zatory tłuszczowe",
+      "4": "zespół Sudecka"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 262,
+    "pytanie": "Wytrzeszcz gałek ocznych jest charakterystyczny dla:",
+    "odpowiedzi": {
+      "1": "wola guzowatego",
+      "2": "choroby Gravesa – Basedowa",
+      "3": "wola niedoczynnego Haschimoto",
+      "4": "wola obojętngo"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 263,
+    "pytanie": "Tężyczka jest spowodowana:",
+    "odpowiedzi": {
+      "1": "obniżonym poziomem wapnia",
+      "2": "podwyższonym poziomem wapnia",
+      "3": "podwyższonym poziomem sodu",
+      "4": "obniżonym poziomem potasu"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 264,
+    "pytanie": "Rdzeń nadnerczy wydziela:",
+    "odpowiedzi": {
+      "1": "glikokortykosteroidy (kortyzol)",
+      "2": "mineralokortykoidy (aldosteron)",
+      "3": "androgeny (testosteron)",
+      "4": "katecholaminy (adrenalina, dopomina, noradrenalina) 34"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 265,
+    "pytanie": "Najczęstszą przyczyną krwawienia z górnego odcinka przewodu pokarmowego jest:",
+    "odpowiedzi": {
+      "1": "choroba wrzodowa (żołądka i dwunastnicy)",
+      "2": "Zespół Mallory – Weissa",
+      "3": "uchyłek dwunastnicy",
+      "4": "zapalenie przełyku"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 266,
+    "pytanie": "Do metod endoskopowego tamowania krwawień nie należą:",
+    "odpowiedzi": {
+      "1": "sonda Sengstaken – Blekemore’a",
+      "2": "metody termiczne (elektrokoagulacja)",
+      "3": "metody injekcyjne (ostrzykiwanie adrenaliną, środkami zwiększającymi krzepliwość)",
+      "4": "metody mechaniczne (podwiązki, pętla, klipsy)"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 267,
+    "pytanie": "Do wczesnych powikłań pooperacyjnych zaliczamy:",
+    "odpowiedzi": {
+      "1": "ból rany , krwotok, nudności , wymioty, retencja moczu, ból głowy, duszność",
+      "2": "ból rany , krwotok, nudności , wymioty, retencja moczu, choroba zakrzepowo- zatorowa, zakażenie rany",
+      "3": "ból rany , krwotok, nudności , wymioty, retencja moczu, rozejście się brzegów rany",
+      "4": "ból rany , krwotok, nudności , wymioty, retencja moczu, rozejście się brzegów rany, choroba zakrzepowo-zatorowa"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 268,
+    "pytanie": "Zapobiegając wystąpieniu choroby zakrzepowo-zatorowej po zabiegu operacyjnym zastosujesz:",
+    "odpowiedzi": {
+      "1": "Bandażowanie kończyn dolnych z żylakami, podawanie heparyny drobnocząsteczkowej, wczesne uruchamianie, wykonywanie ćwiczeń izometrycznych kończyn dolnych i ćwiczeń czynnych kończyn dolnych w łóżku",
+      "2": "Bandażowanie kończyn dolnych z żylakami, podawanie heparyny średniocząsteczkowej, wczesne uruchamianie, wykonywanie ćwiczeń izometrycznych wszystkich kończyn i ćwiczeń czynnych",
+      "3": "Bandażowanie kończyn dolnych z żylakami, podawanie heparyny drobnocząsteczkowej,",
+      "4": "Bandażowanie kończyn dolnych, podawanie heparyny drobnocząsteczkowej"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 269,
+    "pytanie": "W celu zapobiegania powikłaniom poprzez wczesne wykrycie objawów utrudnionego odpływu żółci do dwunastnicy lub przez T-dren należy zastosować:",
+    "odpowiedzi": {
+      "1": "obserwacja zabarwienia skóry, twardówek gałek ocznych, moczu i stolca, kontrola ilości wypływającej żółci, ocena poziomu bilirubiny w surowicy krwi",
+      "2": "podawanie dożylne płynów, wykonanie kontrolnej cholangiografii w I dobie pooperacyjnej",
+      "3": "założenie sondy żołądkowej i odsysanie treści z żołądka, w celu kontroli ilości żółci w żołądku",
+      "4": "odp. a i c"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 270,
+    "pytanie": "Pielęgniarka asystuje przy założeniu sondy Sengstakena – Blakemorea. Kiedy stosujemy tę sondę?",
+    "odpowiedzi": {
+      "1": "w celu obniżenia ciśnienia w żyle wrotnej",
+      "2": "po ezofagoskopii",
+      "3": "po resekcji żołądka",
+      "4": "w krwawiących żylakach przełyku"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 271,
+    "pytanie": "Zastosowanie premedykacji spowoduje między innymi.: 35",
+    "odpowiedzi": {
+      "1": "zniesienie niepokoju i lęku przed zabiegiem ,zmniejszenie przemiany materii i ułatwienie wprowadzenie do znieczulenia",
+      "2": "zapobieganie działaniu ubocznemu leków stosowanych w znieczuleniu ogólnym",
+      "3": "zwiększenie przemiany materii i ułatwienie wprowadzenie do znieczulenia",
+      "4": "zapobieganie działaniu ubocznemu leków stosowanych w znieczuleniu ogólnym, zwiększenie przemiany materii, zniesienie niepokoju i lęku"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 272,
+    "pytanie": "U chorych z cukrzycą w okresie okołooperacyjnym insulinę podajemy drogą:",
+    "odpowiedzi": {
+      "1": "podskórnie wg profilu dobowego",
+      "2": "wg wcześniej przyjętego schematu leczenia cukrzycy indywidualnego pacjenta",
+      "3": "wyłącznie dożylną w tzw. GIKu wg profilu cukru",
+      "4": "nie podajemy"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 273,
+    "pytanie": "Zespół poposiłkowy ( dumping syndrom ) jest częstym powikłaniem po resekcji żołądka. W ramach edukacji pielęgniarskiej należy poinformować chorego o sposobach łagodzenia dolegliwości:",
+    "odpowiedzi": {
+      "1": "przyjmowanie malych ilości posiłków w pozycji leżacej oraz ograniczenie węglowodanów w diecie",
+      "2": "przyjmowanie dużych ilości słodkich płynów",
+      "3": "przyjmowanie małych ilości posiłków w pozycji stojącej",
+      "4": "zachowanie 6 -8 godzinnych przerw pomiędzy posiłkami"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 274,
+    "pytanie": "Który z etapów nie należy do zespołu pourazowego w chorobie metabolicznej?",
+    "odpowiedzi": {
+      "1": "faza kataboliczna ( alarmowa )",
+      "2": "faza przejściowa ( zwrotna, adaptacyjna )",
+      "3": "faza równowagi metabolicznej",
+      "4": "faza zdrowienia ( anaboliczna, spontanicznej poprawy )"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 275,
+    "pytanie": "W zapobieganiu zatorowi powietrznemu u chorego żywionego pozajelitowo pielęgniarka musi pamiętać o:",
+    "odpowiedzi": {
+      "1": "każdorazowym zamykaniu wejścia do cewnika i nie pozostawianiu pustych zestawów",
+      "2": "jałowym postępowaniu z cewnikiem i nie pozostawianiu pustych zestawów",
+      "3": "wymianie zestawów co 12h",
+      "4": "ograniczeniu liczby połączeń w układzie zewnętrznym cewnika"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 276,
+    "pytanie": "Obserwując i pielęgnując pacjenta w pierwszej godzinie po zabiegu operacyjnym objawami wskazującymi na krwotok są:",
+    "odpowiedzi": {
+      "1": "obniżone ciśnienie, tętno prawidłowe, śladowe ilości krwi w drenażu",
+      "2": "obniżone ciśnienie, tętno przyspieszone, słabo wyczuwalne, obecność powyżej 50ml krwi w drenażu",
+      "3": "podwyższone ciśnienie, przyspieszone słabo wyczuwalne tętno, obecność 50ml krwi w drenażu",
+      "4": "podwyższone ciśnienie, zwolnione nitkowate tętno, opatrunek przesiąknięty krwią"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 277,
+    "pytanie": "Obserwując ranę pooperacyjną do miejscowych powikłań zaliczamy:",
+    "odpowiedzi": {
+      "1": "rozejście się rany i zakrzepowe zapalenie żył",
+      "2": "krwiak, zakażenie rany, przepuklina pooperacyjna",
+      "3": "wyciek surowiczy, niedodma, zator tętnicy płucnej",
+      "4": "krwiak, nieszczelność zespolenia, niedodma"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 278,
+    "pytanie": "Przygotowując pacjenta z ostrym zapaleniem wyrostka robaczkowego do zabiegu , której czynności nie wykonasz: 36",
+    "odpowiedzi": {
+      "1": "wyrównanie zaburzeń elektrolitowych",
+      "2": "dożylne przetaczanie płynów",
+      "3": "założenie zgłębnika do żołądka w razie uporczywych wymiotów",
+      "4": "wykonanie wlewu przeczyszczajacego w celu usunięcia mas kałowych mogących być źródłem infekcji"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 279,
+    "pytanie": "W patafizjologii żylnej choroby zakrzepowo – zatorowej decydującą rolę odgrywa tzw. triada Virchowa. Który z wymienionych elementów nie wchodzi w skład triady?",
+    "odpowiedzi": {
+      "1": "uszkodzenie śródbłonka naczyniowego żyły",
+      "2": "zwolnienie przepływu krwi",
+      "3": "uszkodzenie śródbłonka naczyniowego tętnicy",
+      "4": "zaburzenia krzepnięcia krwi"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 280,
+    "pytanie": "Ile godzin przed znieczuleniem chory nie powinien przyjmować pokarmów i płynów niezależnie od rodzaju operacji?",
+    "odpowiedzi": {
+      "1": "8 – 12 godzin",
+      "2": "3 – 4 godziny",
+      "3": "5 godzin",
+      "4": "co najmniej 6 - 8 godzin"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 281,
+    "pytanie": "Wstrząs hipowolemiczny jest spowodowany:",
+    "odpowiedzi": {
+      "1": "zmniejszeniem objętości krwi krążącej",
+      "2": "ostrą niewydolnością mięśnia sercowego",
+      "3": "Kwasicą metaboliczną",
+      "4": "Gwałtownym poszerzeniem łożyska naczyniowego"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 282,
+    "pytanie": "Pielęgnując chorego po urazie głowy i dokonując oceny wg Skali Glasgow wiesz, że ilość punktów 13-15 oznacza:",
+    "odpowiedzi": {
+      "1": "Chory przytomny",
+      "2": "Półśpiączka",
+      "3": "Śpiączka umiarkowana",
+      "4": "Śpiączka głęboka"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 283,
+    "pytanie": "Możliwość wystąpienia powikłań biochemicznych z powodu zespołu rewaskularyzacji po wykonanej embolektomii dotyczy chorych z :",
+    "odpowiedzi": {
+      "1": "Z chorobami tętnic",
+      "2": "Po urazach rdzenia kręgowego",
+      "3": "Ze stomią",
+      "4": "Z chorobami żył"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 284,
+    "pytanie": "Ułożenie kończyny amputowanej w odwiedzeniu w stawie biodrowym i uniesienie łóżka o 15-20 stopni zapobiega:",
+    "odpowiedzi": {
+      "1": "Możliwości wystąpienia obrzęku i przykurczu zgięciowego kikuta",
+      "2": "Wystąpieniu niedrożności przeszczepu na ukł. tętniczym",
+      "3": "Wystąpieniu zespołu reewaskularyzacji",
+      "4": "Rozwojowi zakażenia"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 285,
+    "pytanie": "W przypadku wystąpienia krwotoku żylnego z powodu pęknięcia żylaka należy zastosować:",
+    "odpowiedzi": {
+      "1": "Ułożenie chorego w pozycji leżącej z wysokim ułożeniem kończyny",
+      "2": "Ułożenie chorego w pozycji leżącej z niskim ułożeniem kończyny i założeniem opatrunku 37",
+      "3": "Założenie opatrunku uciskowego na miejsce krwawienia bez konieczności konsultacji chirurgicznej oraz niskie ułożenie kończyny w celu zapewnienia jej ukrwienia",
+      "4": "Podanie heparyny niefrakcjonowanej we wlewie dożylnym"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 286,
+    "pytanie": "Pielęgnując chorego z krwawieniem z przewodu pokarmowego z górnego odcinka i stwierdzając duszność na skutek niedotlenienia spowodowanego utratą krwi i niedoborem hemoglobiny w swoim planie opieki pielęgniarka nie uwzględni:",
+    "odpowiedzi": {
+      "1": "Podanie atropiny w celu zmniejszenia wydzielania, zgodnie z kartą zleceń",
+      "2": "Zastosowanie tlenoterapia, pomiar oddechów, saturacji",
+      "3": "Ograniczenie wysiłku fizycznego",
+      "4": "Wyjaśnienie choremu powodu duszności"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 287,
+    "pytanie": "Pielęgnując chorego z założoną gastrostomią przestrzegamy procedur karmienia. Nie obejmuje ona:",
+    "odpowiedzi": {
+      "1": "Podanie posiłku po raz pierwszy w obecności lekarza, tj. ok. 200-400 ml mieszanki żywieniowej w rozcieńczeniu 1:1 z wodą przegotowaną.",
+      "2": "Jednorazowe podanie posiłku 200-500 ml przez około 15 minut.",
+      "3": "Podanie posiłku po raz pierwszy w obecności lekarza, podaje się ok. 50 ml wody przegotowanej",
+      "4": "Płukanie drenu ok. 50 ml wody przegotowanej po karmieniu"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 288,
+    "pytanie": "Wymioty oraz wzdęcie brzucha z powodu zalegania gazów i gromadzenia się treści płynnej powyżej przeszkody jest problemem zdrowotnym u chorych:",
+    "odpowiedzi": {
+      "1": "Po perforacji pęcherzyka żółciowego",
+      "2": "Z ostrym zapaleniem wyrostka robaczkowego",
+      "3": "Z niedrożnością mechaniczną jelit",
+      "4": "Z krwawieniem z przewodu pokarmowego"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 289,
+    "pytanie": "Pielęgnując chorego z krwawieniem z żylaków przełyku okresowe zwolnienie ucisku balonem na przełyk przez zmniejszenie jego wypełnienia ma na celu:",
+    "odpowiedzi": {
+      "1": "Likwidację bólu i zapobieganie powikłaniom np. owrzodzeniem, odleżynom",
+      "2": "Likwidację bólu kanału nosowego",
+      "3": "Zmniejszenie niepokoju chorego z powodu założonej sondy Sengstackena- Blackemorea",
+      "4": "Wczesne wykrycie objawów wstrząsu i zapewnienie choremu bezpieczeństwa"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 290,
+    "pytanie": "Pielęgnując chorego z urazem głowy należy ułożyć go w pozycji:",
+    "odpowiedzi": {
+      "1": "Płaskiej z wezgłowiem uniesionym o 30 stopni w stosunku do tułowia",
+      "2": "Płaskiej na boku",
+      "3": "Wygodnej, gdyż chory ma i tak założony kołnierz Schanza",
+      "4": "Płasko na desce ratunkowej"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 291,
+    "pytanie": "W celu wykrycia objawów chrypki z powodu uszkodzenia nerwu krtaniowego wstecznego lub obrzęku krtani w swoim planie działania pielęgniarka uwzględni:",
+    "odpowiedzi": {
+      "1": "Obserwację w kierunku obecności obj. Chwosta i chrapliwego oddechu",
+      "2": "Ćwiczenie szyi w pełnym zakresie ruchów po konsultacji z fizjoterapeutą",
+      "3": "Ocenę barwy głosu po wybudzeniu i dalej co 1 godz. , obserwacja w kierunku chrapliwego oddechu i wrażenia wciągania tkanek szyi w czasie wdechu",
+      "4": "Pobranie krwi w celu oceny poziomu hormonów tarczycy"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 292,
+    "pytanie": "W celu zmniejszenia bólu i uczucia dyskomfortu u chorych z powodu łagodnego wytrzeszczu gałek ocznych w chorobie Gravesa-Basedowa należy zastosować min.:",
+    "odpowiedzi": {
+      "1": "Leki obniżające poziom hormonów tarczycy np. Methylothiouracyl 38",
+      "2": "Stosowanie sztucznych łez oraz zalecenie diety wysokosodowej",
+      "3": "Ochrona oczu ciemnymi oklarami, stosowanie sztucznych łez i ciepłych okładów na oczodoły.",
+      "4": "Ochrona błon śluzowych z powodu niedotykania powiek przed wysychaniem oraz stosowanie diety niskosodowej"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 293,
+    "pytanie": "Zapobiegając wystąpieniu żółtaczki pooperacyjnej z powodu utrudnionego odpływu żółci do dwunastnicy lub przez dren Kehra pielęgniarka nie zastosuje w swoim planie opieki:",
+    "odpowiedzi": {
+      "1": "Obserwacja zabarwienia skóry, twardówek, moczu, stolca",
+      "2": "Obserwacja laboratoryjna poziomu bilirubiny",
+      "3": "Wykonanie kontrolnej cholangiografii w II dobie pooperacyjnej",
+      "4": "Kontrola ilości wypływającej żółci"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 294,
+    "pytanie": "Obserwacja pielęgniarska pacjenta z OZT, leczonego w oddziale, jest ukierunkowana na ocenę min.:",
+    "odpowiedzi": {
+      "1": "Hemofiltrację, stan nawodnienia",
+      "2": "Sympatektomię splotu lędźwiowego i perfuzji trzustki",
+      "3": "Nasilenie bólu, rodzaj objawów, stan nawodnienia, wydolność układu oddechowego",
+      "4": "Nawyków żywieniowych"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 295,
+    "pytanie": "Zapobiegając wystąpieniu możliwości rozejścia się zespolenia i zapalenia otrzewnej u chorego po resekcji żołądka w planie opieki należy uwzględnić min.:",
+    "odpowiedzi": {
+      "1": "Obserwacja ilości i jakości wydzieliny odprowadzanej z rany przez dreny i przez sondę, wykonanie tzw. próby szczelności z użyciem barwnika",
+      "2": "Stałe przepłukiwanie sondy i drenów",
+      "3": "Szybkie wprowadzenie żywienia enteralnego",
+      "4": "Zwiększenie ilości płynów do picia"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 296,
+    "pytanie": "Edukując i przygotowując chorego do cholangiografii po zabiegu kamicy przewodowej należy poinformować go , że jest to:",
+    "odpowiedzi": {
+      "1": "Doustne podanie kontrastu",
+      "2": "Nacięcie zwieracza Oddiego",
+      "3": "Wprowadzenie duodenoskopu z boczną optyką i nacięcie brodawki Patera",
+      "4": "Seria zdjęć RTG po podaniu kontrastu przez dren"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 297,
+    "pytanie": "U pacjenta z wyłonioną ileostomią pielęgnację sztucznego odbytu należy rozpocząć:",
+    "odpowiedzi": {
+      "1": "w I dobie po zabiegu operacyjnym",
+      "2": "w III dobie po zabiegu operacyjnym",
+      "3": "bezpośrednio po zabiegu operacyjnym",
+      "4": "po ustąpieniu obrzęku stomii"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 298,
+    "pytanie": "Wykonanie zabiegu irygacji stomii u pacjenta z kolostomią polega na:",
+    "odpowiedzi": {
+      "1": "podaniu doustnych środków przeczyszczających",
+      "2": "podaży dodatkowej ilości płynów drogą parenteralną",
+      "3": "oczyszczeniu jelita z mas kałowych",
+      "4": "podaniu środków odgazowujących jelita"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 299,
+    "pytanie": "Przygotowując pacjenta do kolonoskopii należy poinformować go, że jest to badanie:",
+    "odpowiedzi": {
+      "1": "radiologiczne",
+      "2": "ultrasonograficzne",
+      "3": "endoskopowe",
+      "4": "radiologiczne z użyciem kontrastu 39"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 300,
+    "pytanie": "Czynnikami predysponującymi do powstania żylaków odbytu nie są:",
+    "odpowiedzi": {
+      "1": "długotrwałe stosowanie środków przeczyszczających",
+      "2": "przewlekłe zaparcia",
+      "3": "stosowanie diety zawierającej błonnik",
+      "4": "siedzący tryb życia"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 301,
+    "pytanie": "Pielęgnując pacjenta w zerowej dobie po zabiegu operacyjnym przepukliny pachwinowej, pielęgniarka powinna m.in.:",
+    "odpowiedzi": {
+      "1": "na ranę pooperacyjną położyć woreczek z piaskiem a pod worek mosznowy – suspensorium, obserwować ilość i jakość treści wypływającej z drenu",
+      "2": "tylko obserwować czy opatrunek nie jest przekrwiony i jaka jest ilość treści wypływającej z drenu",
+      "3": "wystarczy pomiar podstawowych parametrów życiowych",
+      "4": "stan rany nie jest istotny – najważniejsze jest nawodnienie pacjenta"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 302,
+    "pytanie": "Pielęgnując pacjenta z rozpoznaniem choroby Leśniowskiego – Crohna, pielęgniarka powinna pamiętać, ze jednym z bardzo charakterystycznych objawów tej choroby są:",
+    "odpowiedzi": {
+      "1": "apatia",
+      "2": "nerwowość",
+      "3": "zaparcia",
+      "4": "biegunki"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 303,
+    "pytanie": "Podczas zmiany sprzętu stomijnego – skórę wokół stomii należy:",
+    "odpowiedzi": {
+      "1": "zdezynfekować 75% spirytusem i osuszyć",
+      "2": "przemyć 3% wodą utlenioną i osuszyć",
+      "3": "przemyć benzyną w celu pozbycia się resztek kleju",
+      "4": "przemyć wodą z mydłem i osuszyć"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 304,
+    "pytanie": "Przygotowując pacjenta do zabiegu operacyjnego na jelicie grubym – pielęgniarka dba o przygotowanie przewodu pokarmowego. W tym przypadku przygotowanie polega na:",
+    "odpowiedzi": {
+      "1": "wykonaniu 2 wlewów czyszczących w dniu zabiegu",
+      "2": "wyłącznie podawaniu doustnych środków czyszczących na 2 dni przed planowanym zabiegiem operacyjnym",
+      "3": "podawaniu doustnych środków czyszczących i przestrzeganiu diety płynnej na 1 – 2 dni przed planowanym zabiegiem operacyjnym oraz wykonaniu wlewów czyszczących jelito grube",
+      "4": "wyłącznie na wykonywaniu wlewów czyszczących jelito z mas kałowych"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 305,
+    "pytanie": "Edukując pacjenta z kolostomią, pielegniarka poinformuje go, że zabieg, który może doprowadzić do wyrobienia odruchu kontrolowanego oddawania stolca – nosi nazwę:",
+    "odpowiedzi": {
+      "1": "inscylacji",
+      "2": "irygacji",
+      "3": "implantacji",
+      "4": "anoskopii"
+    },
+    "poprawna": null
+  },
+  {
+    "numer": 306,
+    "pytanie": "Pielęgnując pacjenta po zabiegu usunięcia tarczycy należy ułożyć go w pozycji:",
+    "odpowiedzi": {
+      "1": "grzbietowej",
+      "2": "bezpiecznej",
+      "3": "półwysokiej",
+      "4": "bocznej 40"
+    },
+    "poprawna": null
   }
 ]
