@@ -23,10 +23,11 @@
     <div id="editForm" class="hidden mt-4 space-y-2">
       <input id="questionInput" class="w-full border p-2" placeholder="Pytanie" />
       <div id="answerInputs" class="space-y-1"></div>
-      <label class="block">Poprawna odpowiedź:
-        <input id="correctInput" type="number" class="border p-2 w-full" min="1" />
-      </label>
-      <button id="saveBtn" class="bg-blue-500 text-white px-4 py-2 rounded">Zapisz zmiany</button>
+      <button id="addAnswerBtn" type="button" class="bg-gray-300 px-2 py-1 rounded">Dodaj odpowiedź</button>
+      <div class="space-x-2">
+        <button id="saveBtn" class="bg-blue-500 text-white px-4 py-2 rounded">Zapisz zmiany</button>
+        <button id="cancelBtn" type="button" class="bg-gray-500 text-white px-4 py-2 rounded">Anuluj</button>
+      </div>
     </div>
   </div>
 
